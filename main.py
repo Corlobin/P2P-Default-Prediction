@@ -6,6 +6,8 @@ Created on Wed Feb 21 21:18:01 2018
 @author: diegosoaresub
 """
 import csv
+import itertools
+
 import pandas as pd
 import randomForestUtil as rfu
 import matplotlib.pyplot as plt
@@ -13,10 +15,12 @@ from itertools import chain, combinations
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
-
+from datetime import datetime
+import threading
+from itertools import product
 
 def all_subsets(ss):
-    return chain(*map(lambda x: combinations(ss, x), range(0, len(ss)+1)))
+    return sorted(chain(*map(lambda x: combinations(ss, x), range(0, len(ss)+1))))
 
 def features_importance(X, Y, names):
     "Gets the feature importance of each attribute"
@@ -83,20 +87,43 @@ selected_features = ['loan_status',
 #feature_combinations = set(all_subsets(selected_features[1:]))
 feature_combinations = list(all_subsets(selected_features[1:]))
 
+test_feature_combinations = sorted(feature_combinations)
+test_set_feature_combinations = list()
+already_created_list = dict()
+actual = 0
+for combine in test_feature_combinations:
+    actual = actual  + 1
+    if actual % 1000 == 0:
+        print('actual : ' + str(actual))
+    if len(combine) > 0:
+        ordered = sorted(combine)
+        dict_key = ''.join(ordered)
+        if dict_key not in already_created_list:
+            test_set_feature_combinations = test_set_feature_combinations + [ordered]
+            already_created_list[dict_key] = True
+        else:
+            print('already exists ' + dict_key)
+
 print('Total combinations: ' + str(len(feature_combinations)))
+print('Total combinations: ' + str(len(test_set_feature_combinations)))
 
 # calculate each accuracy for feature combination
 features_accuracy = dict()
 actual_combination = 0
+
 for subset in feature_combinations:
     actual_combination = actual_combination + 1
     if (len(subset) > 0):
-        print('\t Calculing for combination '+ str(actual_combination))
-        subset_training = ['loan_status'] + list(subset) # add loan status
-        loans_calculate = loans[subset_training] # select features
+        ini = datetime.now()
+        print('\t Calculing for combination ' + str(actual_combination))
+        subset_training = ['loan_status'] + list(subset)  # add loan status
+        loans_calculate = loans[subset_training]  # select features
         acc = calculate_feature_accuracy(loans_calculate)
         feature_index_list = feature_combinations.index(subset)
         features_accuracy[feature_index_list] = acc
+        end = datetime.now()
+        diff = end - ini
+        print('\t\t Time for execution ' + str(diff))
 
 w = csv.writer(open("1_random_forest_classifier_output.csv", "w"))
 for key, val in features_accuracy.items():

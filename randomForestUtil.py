@@ -20,7 +20,7 @@ def random_forest(x_train, x_test, y_train):
 
     # Create a random forest Classifier. By convention, clf means 'Classifier'
     rf = RandomForestClassifier(n_estimators=200,
-                                n_jobs=10,
+                                n_jobs=4,
                                 #                                random_state=0,
                                 verbose=0)
 
