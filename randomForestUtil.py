@@ -4,6 +4,8 @@ Created on Wed Feb 14 15:26:33 2018
 
 @author: diego.rodrigues
 """
+import threading
+
 import numpy as np
 import matplotlib.pyplot as plt
 import util
@@ -16,11 +18,15 @@ from sklearn.metrics import mean_squared_error
 
 
 def random_forest(x_train, x_test, y_train):
+    threading.current_thread().name = 'MainThread'
+    threading.current_thread().setName('MainThread')
+    print(threading.current_thread().name)
+
     "Random Forest"
 
     # Create a random forest Classifier. By convention, clf means 'Classifier'
     rf = RandomForestClassifier(n_estimators=200,
-                                n_jobs=4,
+                                n_jobs=-1,
                                 #                                random_state=0,
                                 verbose=0)
 

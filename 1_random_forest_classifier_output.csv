@@ -1,0 +1,2046 @@
+"('annual_inc',)",0.5283026826387717
+"('annual_inc', 'int_rate')",0.6039733423317024
+"('annual_inc', 'int_rate', 'loan_amnt')",0.5972456554749451
+"('annual_inc', 'int_rate', 'loan_amnt', 'open_acc')",0.606525223553231
+"('annual_inc', 'int_rate', 'open_acc')",0.5853509363927788
+"('annual_inc', 'int_rate', 'revol_bal')",0.5938501771553906
+"('annual_inc', 'int_rate', 'revol_bal', 'loan_amnt')",0.6134005399021427
+"('annual_inc', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6231229964568922
+"('annual_inc', 'int_rate', 'revol_bal', 'open_acc')",0.606525223553231
+"('annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6157415218491649
+"('annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6256537877509701
+"('annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6328876328665429
+"('annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6246414712333389
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc')",0.6099417918002362
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6213303526235869
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6256116078960688
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6187784714020583
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6244727518137337
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6316011472920533
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6361987514762949
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6303779314999156
+"('annual_inc', 'int_rate', 'tot_cur_bal')",0.5975198245318036
+"('annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6177872448118779
+"('annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6276151510038805
+"('annual_inc', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6122195039649063
+"('annual_inc', 'int_rate', 'total_acc')",0.5856040155221865
+"('annual_inc', 'int_rate', 'total_acc', 'loan_amnt')",0.6122195039649063
+"('annual_inc', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6183144929981441
+"('annual_inc', 'int_rate', 'total_acc', 'open_acc')",0.6015690906023283
+"('annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6119453349080479
+"('annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6255272481862663
+"('annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6302303020077611
+"('annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6190315505314662
+"('annual_inc', 'loan_amnt')",0.5514172431246837
+"('annual_inc', 'loan_amnt', 'open_acc')",0.5359161464484562
+"('annual_inc', 'open_acc')",0.5271849164838873
+"('annual_inc', 'revol_bal')",0.5069385861312637
+"('annual_inc', 'revol_bal', 'loan_amnt')",0.5377298802092121
+"('annual_inc', 'revol_bal', 'loan_amnt', 'open_acc')",0.5496878690737304
+"('annual_inc', 'revol_bal', 'open_acc')",0.5114729205331534
+"('annual_inc', 'revol_bal', 'tot_cur_bal')",0.5263834992407627
+"('annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.5580394803441876
+"('annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5676564872616838
+"('annual_inc', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5338282436308419
+"('annual_inc', 'revol_bal', 'total_acc')",0.5113042011135481
+"('annual_inc', 'revol_bal', 'total_acc', 'loan_amnt')",0.548443563354142
+"('annual_inc', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.5625949046735279
+"('annual_inc', 'revol_bal', 'total_acc', 'open_acc')",0.5219757044035769
+"('annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.5323519487092965
+"('annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5640711995950733
+"('annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5773156740340813
+"('annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5414838872954277
+"('annual_inc', 'revol_util')",0.514868398852708
+"('annual_inc', 'revol_util', 'int_rate')",0.5952842922220347
+"('annual_inc', 'revol_util', 'int_rate', 'loan_amnt')",0.6133583600472414
+"('annual_inc', 'revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.6218576008098532
+"('annual_inc', 'revol_util', 'int_rate', 'open_acc')",0.6062088746414712
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal')",0.6125358528766661
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6228066475451325
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6294077948371858
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.6185043023451999
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6253374388392104
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6331196220685
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.635587143580226
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6309684494685338
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.6191580900961701
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6283322085372026
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6322338451155728
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6257170575333221
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6291758056352286
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6360511219841404
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6400582081997638
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6342795680782858
+"('annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal')",0.6127467521511726
+"('annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6275940610764299
+"('annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6335414206175131
+"('annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6242618525392273
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc')",0.6090771047747596
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.6221317698667117
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6298085034587481
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc', 'open_acc')",0.6194955289353805
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6230386367470896
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6317909566391091
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6388560823350767
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6322549350430234
+"('annual_inc', 'revol_util', 'loan_amnt')",0.5433187109836343
+"('annual_inc', 'revol_util', 'loan_amnt', 'open_acc')",0.5546229120971824
+"('annual_inc', 'revol_util', 'open_acc')",0.5187278555761768
+"('annual_inc', 'revol_util', 'revol_bal')",0.5241690568584444
+"('annual_inc', 'revol_util', 'revol_bal', 'loan_amnt')",0.5579340307069344
+"('annual_inc', 'revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.577821832292897
+"('annual_inc', 'revol_util', 'revol_bal', 'open_acc')",0.5437405095326472
+"('annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal')",0.5430023620718745
+"('annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.5755441201282268
+"('annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5910873966593555
+"('annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5606968112029694
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc')",0.5279019740172094
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.5668550700185592
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.5862156234182554
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.5522819301501602
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.5489708115404083
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5818921882908723
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5962122490298634
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5644719082166357
+"('annual_inc', 'revol_util', 'tot_cur_bal')",0.5341445925426016
+"('annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt')",0.5601695630167032
+"('annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5770415049772228
+"('annual_inc', 'revol_util', 'tot_cur_bal', 'open_acc')",0.5462291209718239
+"('annual_inc', 'revol_util', 'total_acc')",0.5185169563016703
+"('annual_inc', 'revol_util', 'total_acc', 'loan_amnt')",0.5494558798717732
+"('annual_inc', 'revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.5676775771891345
+"('annual_inc', 'revol_util', 'total_acc', 'open_acc')",0.5340813227602497
+"('annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal')",0.5410620887464147
+"('annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5695967605871436
+"('annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5819976379281255
+"('annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5544120128226759
+"('annual_inc', 'tot_cur_bal')",0.5177998987683482
+"('annual_inc', 'tot_cur_bal', 'loan_amnt')",0.5436983296777459
+"('annual_inc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5507001855913616
+"('annual_inc', 'tot_cur_bal', 'open_acc')",0.5181373376075586
+"('annual_inc', 'total_acc')",0.5145942297958495
+"('annual_inc', 'total_acc', 'loan_amnt')",0.534482031381812
+"('annual_inc', 'total_acc', 'loan_amnt', 'open_acc')",0.5392061751307575
+"('annual_inc', 'total_acc', 'open_acc')",0.5122954277037287
+"('annual_inc', 'total_acc', 'tot_cur_bal')",0.5172937405095327
+"('annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5532942466677915
+"('annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5636704909735111
+"('annual_inc', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5305382149485406
+"('dti',)",0.5503416568247005
+"('dti', 'annual_inc')",0.5218913446937743
+"('dti', 'annual_inc', 'int_rate')",0.604352961025814
+"('dti', 'annual_inc', 'int_rate', 'loan_amnt')",0.6179770541589337
+"('dti', 'annual_inc', 'int_rate', 'loan_amnt', 'open_acc')",0.6264130251391935
+"('dti', 'annual_inc', 'int_rate', 'open_acc')",0.6110173781002194
+"('dti', 'annual_inc', 'int_rate', 'revol_bal')",0.6190737303863675
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'loan_amnt')",0.6293867049097351
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6326767335920365
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'open_acc')",0.6212881727686856
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6274886114391767
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6359245824194365
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.63896153197233
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6306942804116754
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc')",0.6239665935549181
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6322549350430234
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6360089421292391
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6274253416568247
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6327189134469378
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6397629492154547
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6413025139193521
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6321283954783196
+"('dti', 'annual_inc', 'int_rate', 'tot_cur_bal')",0.6208874641471234
+"('dti', 'annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6301881221528598
+"('dti', 'annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.634026488948878
+"('dti', 'annual_inc', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6254007086215624
+"('dti', 'annual_inc', 'int_rate', 'total_acc')",0.6132529104099882
+"('dti', 'annual_inc', 'int_rate', 'total_acc', 'loan_amnt')",0.6271511725999662
+"('dti', 'annual_inc', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6343639277880884
+"('dti', 'annual_inc', 'int_rate', 'total_acc', 'open_acc')",0.6212249029863337
+"('dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6259701366627298
+"('dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6375906866880378
+"('dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6359456723468871
+"('dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6305255609920701
+"('dti', 'annual_inc', 'loan_amnt')",0.5504260165345031
+"('dti', 'annual_inc', 'loan_amnt', 'open_acc')",0.5602117428716045
+"('dti', 'annual_inc', 'open_acc')",0.5261936898937067
+"('dti', 'annual_inc', 'revol_bal')",0.5365699341994263
+"('dti', 'annual_inc', 'revol_bal', 'loan_amnt')",0.5656951240087734
+"('dti', 'annual_inc', 'revol_bal', 'loan_amnt', 'open_acc')",0.573603846802767
+"('dti', 'annual_inc', 'revol_bal', 'open_acc')",0.5401763117934875
+"('dti', 'annual_inc', 'revol_bal', 'tot_cur_bal')",0.5498565884933356
+"('dti', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.579382486924245
+"('dti', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5864476126202126
+"('dti', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5585667285304539
+"('dti', 'annual_inc', 'revol_bal', 'total_acc')",0.5418213261346381
+"('dti', 'annual_inc', 'revol_bal', 'total_acc', 'loan_amnt')",0.5736671165851189
+"('dti', 'annual_inc', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.581364940104606
+"('dti', 'annual_inc', 'revol_bal', 'total_acc', 'open_acc')",0.5487810021933525
+"('dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.5558672178167707
+"('dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5857094651594399
+"('dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5910241268770036
+"('dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5627003543107811
+"('dti', 'annual_inc', 'revol_util')",0.5401341319385862
+"('dti', 'annual_inc', 'revol_util', 'int_rate')",0.6152142736628986
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'loan_amnt')",0.6295976041842416
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.6314746077273494
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'open_acc')",0.6237135144255104
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal')",0.6249156402901974
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6315378775097014
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6347224565547495
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.6294921545469884
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6323814746077273
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6406065463134807
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6404378268938755
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6327821832292897
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.6289016365783702
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6358613126370846
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6387295427703729
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6307575501940273
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6339632191665261
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6384131938586132
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6416821326134639
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6371899780664755
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal')",0.6276362409313312
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.63408975873123
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6354606040155222
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6301670322254092
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc')",0.6231862662392441
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.633309431415556
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6347857263371014
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'open_acc')",0.6268980934705585
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6311582588155896
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.639868398852708
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.639868398852708
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6354184241606209
+"('dti', 'annual_inc', 'revol_util', 'loan_amnt')",0.5641766492323267
+"('dti', 'annual_inc', 'revol_util', 'loan_amnt', 'open_acc')",0.5709886957988864
+"('dti', 'annual_inc', 'revol_util', 'open_acc')",0.5477897756031719
+"('dti', 'annual_inc', 'revol_util', 'revol_bal')",0.5524295596423149
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'loan_amnt')",0.5804369832967775
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.5890205837691919
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'open_acc')",0.5586510882402564
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal')",0.5653787750970136
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.59220516281424
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5989117597435465
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5742998144086384
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc')",0.5581449299814408
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.58636325291041
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.5951577526573308
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.5661380124852371
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.5691116922557786
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.59707693605534
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6035937236375907
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5772734941791801
+"('dti', 'annual_inc', 'revol_util', 'tot_cur_bal')",0.5586299983128058
+"('dti', 'annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt')",0.5811118609751983
+"('dti', 'annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5869748608064789
+"('dti', 'annual_inc', 'revol_util', 'tot_cur_bal', 'open_acc')",0.5631854226421461
+"('dti', 'annual_inc', 'revol_util', 'total_acc')",0.5484646532815927
+"('dti', 'annual_inc', 'revol_util', 'total_acc', 'loan_amnt')",0.5727180698498398
+"('dti', 'annual_inc', 'revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.5786865193183736
+"('dti', 'annual_inc', 'revol_util', 'total_acc', 'open_acc')",0.5540956639109161
+"('dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal')",0.5606335414206175
+"('dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5874810190652944
+"('dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5935127383161802
+"('dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5698920195714526
+"('dti', 'annual_inc', 'tot_cur_bal')",0.540682470052303
+"('dti', 'annual_inc', 'tot_cur_bal', 'loan_amnt')",0.5668339800911085
+"('dti', 'annual_inc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5742154546988358
+"('dti', 'annual_inc', 'tot_cur_bal', 'open_acc')",0.548928631685507
+"('dti', 'annual_inc', 'total_acc')",0.531234182554412
+"('dti', 'annual_inc', 'total_acc', 'loan_amnt')",0.5621309262696136
+"('dti', 'annual_inc', 'total_acc', 'loan_amnt', 'open_acc')",0.572760249704741
+"('dti', 'annual_inc', 'total_acc', 'open_acc')",0.5402817614307407
+"('dti', 'annual_inc', 'total_acc', 'tot_cur_bal')",0.5472414374894551
+"('dti', 'annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5760502783870424
+"('dti', 'annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5837270119790788
+"('dti', 'annual_inc', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5571537033912604
+"('dti', 'int_rate')",0.5749957820145098
+"('dti', 'int_rate', 'loan_amnt')",0.6028977560317192
+"('dti', 'int_rate', 'loan_amnt', 'open_acc')",0.6131052809178337
+"('dti', 'int_rate', 'open_acc')",0.5828201450987008
+"('dti', 'int_rate', 'revol_bal')",0.6096465328159271
+"('dti', 'int_rate', 'revol_bal', 'loan_amnt')",0.6206554749451662
+"('dti', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6253585287666611
+"('dti', 'int_rate', 'revol_bal', 'open_acc')",0.6131685507001856
+"('dti', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6233338957313986
+"('dti', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6334781508351611
+"('dti', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6378648557448963
+"('dti', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.627530791294078
+"('dti', 'int_rate', 'revol_bal', 'total_acc')",0.6173232664079635
+"('dti', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6267293740509533
+"('dti', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6325923738822339
+"('dti', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6221317698667117
+"('dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6281002193352455
+"('dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.635355154378269
+"('dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6394466003036949
+"('dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6325923738822339
+"('dti', 'int_rate', 'tot_cur_bal')",0.6091614644845622
+"('dti', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6218576008098532
+"('dti', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6293867049097351
+"('dti', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6176396153197233
+"('dti', 'int_rate', 'total_acc')",0.5903703391260334
+"('dti', 'int_rate', 'total_acc', 'loan_amnt')",0.6162687700354311
+"('dti', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6223848489961195
+"('dti', 'int_rate', 'total_acc', 'open_acc')",0.6074320904336089
+"('dti', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6179137843765817
+"('dti', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6267082841235027
+"('dti', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6329930825037962
+"('dti', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6249578201450987
+"('dti', 'loan_amnt')",0.5272270963387886
+"('dti', 'loan_amnt', 'open_acc')",0.5286612114054328
+"('dti', 'open_acc')",0.5193394634722457
+"('dti', 'revol_bal')",0.5246330352623587
+"('dti', 'revol_bal', 'loan_amnt')",0.5499409482031382
+"('dti', 'revol_bal', 'loan_amnt', 'open_acc')",0.5563522861481357
+"('dti', 'revol_bal', 'open_acc')",0.5271005567740847
+"('dti', 'revol_bal', 'tot_cur_bal')",0.5424751138856082
+"('dti', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.5685633541420617
+"('dti', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5775898430909397
+"('dti', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5494769697992239
+"('dti', 'revol_bal', 'total_acc')",0.532858106968112
+"('dti', 'revol_bal', 'total_acc', 'loan_amnt')",0.5590728867892695
+"('dti', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.5671292390754176
+"('dti', 'revol_bal', 'total_acc', 'open_acc')",0.5425805635228614
+"('dti', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.5498776784207863
+"('dti', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5785810696811203
+"('dti', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5852665766829762
+"('dti', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5553610595579551
+"('dti', 'revol_util')",0.5207524886114392
+"('dti', 'revol_util', 'int_rate')",0.60779061920027
+"('dti', 'revol_util', 'int_rate', 'loan_amnt')",0.6185675721275519
+"('dti', 'revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.6247469208705922
+"('dti', 'revol_util', 'int_rate', 'open_acc')",0.6118398852707947
+"('dti', 'revol_util', 'int_rate', 'revol_bal')",0.6162055002530791
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6277627804960351
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6292601653450313
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.6250843597098026
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6280158596254429
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6340475788763287
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.639868398852708
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6318542264214612
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.6252319892019571
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6312215285979417
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6344482874978911
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6273198920195715
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6314113379449975
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.638603003205669
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6379703053821495
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6345748270625949
+"('dti', 'revol_util', 'int_rate', 'tot_cur_bal')",0.6192424498059727
+"('dti', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6294921545469884
+"('dti', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6346591867723975
+"('dti', 'revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6253163489117597
+"('dti', 'revol_util', 'int_rate', 'total_acc')",0.6133583600472414
+"('dti', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.6228910072549351
+"('dti', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.629513244474439
+"('dti', 'revol_util', 'int_rate', 'total_acc', 'open_acc')",0.6201914965412519
+"('dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.626202125864687
+"('dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6324658343175299
+"('dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6371267082841235
+"('dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6332039817783027
+"('dti', 'revol_util', 'loan_amnt')",0.5418635059895394
+"('dti', 'revol_util', 'loan_amnt', 'open_acc')",0.5451535346718407
+"('dti', 'revol_util', 'open_acc')",0.5259827906192003
+"('dti', 'revol_util', 'revol_bal')",0.5441833980091109
+"('dti', 'revol_util', 'revol_bal', 'loan_amnt')",0.5663910916146448
+"('dti', 'revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.5756917496203813
+"('dti', 'revol_util', 'revol_bal', 'open_acc')",0.5510165345031213
+"('dti', 'revol_util', 'revol_bal', 'tot_cur_bal')",0.5546018221697318
+"('dti', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.5837902817614308
+"('dti', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5919731736122827
+"('dti', 'revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5686898937067657
+"('dti', 'revol_util', 'revol_bal', 'total_acc')",0.5499620381305889
+"('dti', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.5727391597772904
+"('dti', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.5850345874810191
+"('dti', 'revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.5578918508520331
+"('dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.5606124514931669
+"('dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.588767504639784
+"('dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.59870086046904
+"('dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5729500590517969
+"('dti', 'revol_util', 'tot_cur_bal')",0.5502783870423485
+"('dti', 'revol_util', 'tot_cur_bal', 'loan_amnt')",0.5660536527754344
+"('dti', 'revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.573603846802767
+"('dti', 'revol_util', 'tot_cur_bal', 'open_acc')",0.5532520668128902
+"('dti', 'revol_util', 'total_acc')",0.5332166357347731
+"('dti', 'revol_util', 'total_acc', 'loan_amnt')",0.5505103762443058
+"('dti', 'revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.5587776278049603
+"('dti', 'revol_util', 'total_acc', 'open_acc')",0.5376244305719589
+"('dti', 'revol_util', 'total_acc', 'tot_cur_bal')",0.5559304875991227
+"('dti', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5734351273831618
+"('dti', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5806900624261853
+"('dti', 'revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5644719082166357
+"('dti', 'tot_cur_bal')",0.53279483718576
+"('dti', 'tot_cur_bal', 'loan_amnt')",0.5594735954108317
+"('dti', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5652311456048591
+"('dti', 'tot_cur_bal', 'open_acc')",0.5408933693268095
+"('dti', 'total_acc')",0.5185380462291209
+"('dti', 'total_acc', 'loan_amnt')",0.5349038299308251
+"('dti', 'total_acc', 'loan_amnt', 'open_acc')",0.5472414374894551
+"('dti', 'total_acc', 'open_acc')",0.5157752657330859
+"('dti', 'total_acc', 'tot_cur_bal')",0.5377087902817614
+"('dti', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.564029019740172
+"('dti', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5707356166694787
+"('dti', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5495191496541252
+"('grade',)",0.6394255103762443
+"('grade', 'annual_inc')",0.624704741015691
+"('grade', 'annual_inc', 'int_rate')",0.6047747595748271
+"('grade', 'annual_inc', 'int_rate', 'loan_amnt')",0.598574320904336
+"('grade', 'annual_inc', 'int_rate', 'loan_amnt', 'open_acc')",0.6148979247511388
+"('grade', 'annual_inc', 'int_rate', 'open_acc')",0.5888729542770373
+"('grade', 'annual_inc', 'int_rate', 'revol_bal')",0.5947148641808672
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'loan_amnt')",0.6189682807491143
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6287118272313144
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'open_acc')",0.6134848996119453
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6218997806647545
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.631137168888139
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6370423485743208
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6290703559979753
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc')",0.6157415218491649
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6272355323097688
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6341952083684832
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6249156402901974
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6277206006411338
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6366205500253079
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6390669816095833
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6350809853214104
+"('grade', 'annual_inc', 'int_rate', 'tot_cur_bal')",0.5997764467690231
+"('grade', 'annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6244094820313818
+"('grade', 'annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.631200438670491
+"('grade', 'annual_inc', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6180614138687363
+"('grade', 'annual_inc', 'int_rate', 'total_acc')",0.5889994938417412
+"('grade', 'annual_inc', 'int_rate', 'total_acc', 'loan_amnt')",0.6161844103256284
+"('grade', 'annual_inc', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6230386367470896
+"('grade', 'annual_inc', 'int_rate', 'total_acc', 'open_acc')",0.6066728530453855
+"('grade', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal')",0.615973511051122
+"('grade', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6314956976548001
+"('grade', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6362409313311962
+"('grade', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6252741690568584
+"('grade', 'annual_inc', 'loan_amnt')",0.6019276193689894
+"('grade', 'annual_inc', 'loan_amnt', 'open_acc')",0.5927535009279568
+"('grade', 'annual_inc', 'open_acc')",0.6037413531297452
+"('grade', 'annual_inc', 'revol_bal')",0.5726969799223891
+"('grade', 'annual_inc', 'revol_bal', 'loan_amnt')",0.5997131769866711
+"('grade', 'annual_inc', 'revol_bal', 'loan_amnt', 'open_acc')",0.6131052809178337
+"('grade', 'annual_inc', 'revol_bal', 'open_acc')",0.5885566053652775
+"('grade', 'annual_inc', 'revol_bal', 'tot_cur_bal')",0.6034671840728868
+"('grade', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.617660705247174
+"('grade', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6263286654293909
+"('grade', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6154040830099544
+"('grade', 'annual_inc', 'revol_bal', 'total_acc')",0.5945039649063607
+"('grade', 'annual_inc', 'revol_bal', 'total_acc', 'loan_amnt')",0.6142652269276194
+"('grade', 'annual_inc', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6231862662392441
+"('grade', 'annual_inc', 'revol_bal', 'total_acc', 'open_acc')",0.6062721444238232
+"('grade', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6170069174962038
+"('grade', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.625295258984309
+"('grade', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6329087227939936
+"('grade', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6245992913784376
+"('grade', 'annual_inc', 'revol_util')",0.5753754007086216
+"('grade', 'annual_inc', 'revol_util', 'int_rate')",0.5952842922220347
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'loan_amnt')",0.6195587987177325
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.6271933524548675
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'open_acc')",0.610975198245318
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal')",0.6152142736628986
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6285009279568078
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6340686688037793
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.6239033237725662
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6277206006411338
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6362620212586468
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6412603340644508
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6344904673527924
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.6251476294921545
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.633309431415556
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6395520499409482
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6293867049097351
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.634026488948878
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.640163657837017
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6427155390585456
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6376961363252911
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal')",0.6164374894550363
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6304412012822675
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6377172262527417
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6271933524548675
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc')",0.6140332377256622
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.6276151510038805
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6334992407626118
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'open_acc')",0.624578201450987
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6273409819470221
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6364729205331534
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6405221866036781
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6345537371351443
+"('grade', 'annual_inc', 'revol_util', 'loan_amnt')",0.6005567740846971
+"('grade', 'annual_inc', 'revol_util', 'loan_amnt', 'open_acc')",0.6139066981609583
+"('grade', 'annual_inc', 'revol_util', 'open_acc')",0.5897798211574152
+"('grade', 'annual_inc', 'revol_util', 'revol_bal')",0.603214104943479
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'loan_amnt')",0.6167960182216973
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.6254639784039143
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'open_acc')",0.6150244643158428
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal')",0.617597435464822
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6291336257803273
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.635291884595917
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6262443057195883
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc')",0.61266239244137
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.6253163489117597
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6322127551881221
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.620423485743209
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6221528597941623
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6346591867723975
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6369368989370676
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6326978235194871
+"('grade', 'annual_inc', 'revol_util', 'tot_cur_bal')",0.6047325797199258
+"('grade', 'annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt')",0.620971823856926
+"('grade', 'annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.629576514256791
+"('grade', 'annual_inc', 'revol_util', 'tot_cur_bal', 'open_acc')",0.6173654462628648
+"('grade', 'annual_inc', 'revol_util', 'total_acc')",0.5956006411337945
+"('grade', 'annual_inc', 'revol_util', 'total_acc', 'loan_amnt')",0.6167116585118947
+"('grade', 'annual_inc', 'revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.6261177661548845
+"('grade', 'annual_inc', 'revol_util', 'total_acc', 'open_acc')",0.6084022270963388
+"('grade', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal')",0.6177661548844272
+"('grade', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6306099207018728
+"('grade', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.63408975873123
+"('grade', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.625780327315674
+"('grade', 'annual_inc', 'tot_cur_bal')",0.5752066812890164
+"('grade', 'annual_inc', 'tot_cur_bal', 'loan_amnt')",0.6003669647376413
+"('grade', 'annual_inc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6187152016197064
+"('grade', 'annual_inc', 'tot_cur_bal', 'open_acc')",0.5931120296946178
+"('grade', 'annual_inc', 'total_acc')",0.5930487599122659
+"('grade', 'annual_inc', 'total_acc', 'loan_amnt')",0.5959802598279061
+"('grade', 'annual_inc', 'total_acc', 'loan_amnt', 'open_acc')",0.6077062594904673
+"('grade', 'annual_inc', 'total_acc', 'open_acc')",0.5847182385692593
+"('grade', 'annual_inc', 'total_acc', 'tot_cur_bal')",0.5988695798886452
+"('grade', 'annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6171123671334571
+"('grade', 'annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6285641977391597
+"('grade', 'annual_inc', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6112071874472752
+"('grade', 'dti')",0.6011472920533153
+"('grade', 'dti', 'annual_inc')",0.5811118609751983
+"('grade', 'dti', 'annual_inc', 'int_rate')",0.6036148135650413
+"('grade', 'dti', 'annual_inc', 'int_rate', 'loan_amnt')",0.6242829424666779
+"('grade', 'dti', 'annual_inc', 'int_rate', 'loan_amnt', 'open_acc')",0.6313058883077443
+"('grade', 'dti', 'annual_inc', 'int_rate', 'open_acc')",0.6155728024295597
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal')",0.6260334064450819
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'loan_amnt')",0.6341741184410326
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6395731398683988
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'open_acc')",0.6263919352117429
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.631073899105787
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6406909060232833
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6448245318036105
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6371688881390248
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc')",0.6307997300489286
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6382022945841066
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6417454023958158
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6322760249704741
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6359456723468871
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6440863843428378
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6452252404251729
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.639024801754682
+"('grade', 'dti', 'annual_inc', 'int_rate', 'tot_cur_bal')",0.624514931668635
+"('grade', 'dti', 'annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.635355154378269
+"('grade', 'dti', 'annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6395309600134975
+"('grade', 'dti', 'annual_inc', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6317487767842078
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc')",0.6175763455373714
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc', 'loan_amnt')",0.6316011472920533
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.638603003205669
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc', 'open_acc')",0.6270035431078117
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6309473595410832
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6399527585625105
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6434325965918677
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6357347730723806
+"('grade', 'dti', 'annual_inc', 'loan_amnt')",0.6074953602159608
+"('grade', 'dti', 'annual_inc', 'loan_amnt', 'open_acc')",0.6185675721275519
+"('grade', 'dti', 'annual_inc', 'open_acc')",0.59870086046904
+"('grade', 'dti', 'annual_inc', 'revol_bal')",0.6102792306394466
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'loan_amnt')",0.6250632697823519
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'loan_amnt', 'open_acc')",0.6298085034587481
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'open_acc')",0.618019234013835
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'tot_cur_bal')",0.6207609245824194
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6320651256959676
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6370845284292223
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6304201113548169
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc')",0.6194322591530285
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc', 'loan_amnt')",0.6328665429390923
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6368314492998144
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc', 'open_acc')",0.6268559136156572
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6271722625274169
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6371056183566729
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6418297621056184
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6331618019234014
+"('grade', 'dti', 'annual_inc', 'revol_util')",0.6091403745571116
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate')",0.6215201619706429
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'loan_amnt')",0.6344904673527924
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.6354816939429728
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'open_acc')",0.6273409819470221
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal')",0.6313691580900962
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6371477982115742
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6410916146448457
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.6334148810528092
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6363885608233507
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6417454023958158
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6436434958663743
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6402480175468196
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.6341108486586806
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6407541758056352
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6417454023958158
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6355027838704235
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6388771722625274
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6418930318879703
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6470600641133795
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6375906866880378
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal')",0.6320229458410663
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6400582081997638
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6426522692761937
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6356293234351273
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc')",0.6303779314999156
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.6389826218997806
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6404589168213262
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'open_acc')",0.6321494854057702
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6375906866880378
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6433904167369664
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6446347224565547
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6389404420448793
+"('grade', 'dti', 'annual_inc', 'revol_util', 'loan_amnt')",0.6240298633372702
+"('grade', 'dti', 'annual_inc', 'revol_util', 'loan_amnt', 'open_acc')",0.6286907373038637
+"('grade', 'dti', 'annual_inc', 'revol_util', 'open_acc')",0.6176185253922727
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal')",0.618862831111861
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'loan_amnt')",0.6313058883077443
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.634385017715539
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'open_acc')",0.624578201450987
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal')",0.6287540070862156
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6352286148135651
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6396364096507507
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6328454530116416
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc')",0.6260123165176312
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.6355238737978741
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6359456723468871
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.6301037624430572
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6320862156234183
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6407330858781846
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6403534671840729
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.63733760755863
+"('grade', 'dti', 'annual_inc', 'revol_util', 'tot_cur_bal')",0.6202969461785052
+"('grade', 'dti', 'annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt')",0.6338155896743716
+"('grade', 'dti', 'annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6373165176311794
+"('grade', 'dti', 'annual_inc', 'revol_util', 'tot_cur_bal', 'open_acc')",0.6267926438333052
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc')",0.6198329677745908
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc', 'loan_amnt')",0.6305677408469715
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.6342795680782858
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc', 'open_acc')",0.6264341150666441
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal')",0.6278049603509364
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.638898262189978
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6408385355154378
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6332250717057534
+"('grade', 'dti', 'annual_inc', 'tot_cur_bal')",0.6085920364433947
+"('grade', 'dti', 'annual_inc', 'tot_cur_bal', 'loan_amnt')",0.6262864855744896
+"('grade', 'dti', 'annual_inc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.632402564535178
+"('grade', 'dti', 'annual_inc', 'tot_cur_bal', 'open_acc')",0.6177872448118779
+"('grade', 'dti', 'annual_inc', 'total_acc')",0.6049645689218829
+"('grade', 'dti', 'annual_inc', 'total_acc', 'loan_amnt')",0.6250210899274506
+"('grade', 'dti', 'annual_inc', 'total_acc', 'loan_amnt', 'open_acc')",0.630293571790113
+"('grade', 'dti', 'annual_inc', 'total_acc', 'open_acc')",0.6149822844609415
+"('grade', 'dti', 'annual_inc', 'total_acc', 'tot_cur_bal')",0.6213725324784882
+"('grade', 'dti', 'annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6301037624430572
+"('grade', 'dti', 'annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6381390248017547
+"('grade', 'dti', 'annual_inc', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6276784207862325
+"('grade', 'dti', 'int_rate')",0.5738780158596254
+"('grade', 'dti', 'int_rate', 'loan_amnt')",0.6045005905179687
+"('grade', 'dti', 'int_rate', 'loan_amnt', 'open_acc')",0.6184832124177493
+"('grade', 'dti', 'int_rate', 'open_acc')",0.5879028176143074
+"('grade', 'dti', 'int_rate', 'revol_bal')",0.6099207018727856
+"('grade', 'dti', 'int_rate', 'revol_bal', 'loan_amnt')",0.6235658849333559
+"('grade', 'dti', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6309684494685338
+"('grade', 'dti', 'int_rate', 'revol_bal', 'open_acc')",0.6149190146785896
+"('grade', 'dti', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6258646870254766
+"('grade', 'dti', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6378437658174456
+"('grade', 'dti', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.639088071537034
+"('grade', 'dti', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6316855070018559
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc')",0.6199805972667454
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6321283954783196
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6369579888645183
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.626750463978404
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6315167875822507
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6400582081997638
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.643959844778134
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.636072211911591
+"('grade', 'dti', 'int_rate', 'tot_cur_bal')",0.6103425004217985
+"('grade', 'dti', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6274464315842754
+"('grade', 'dti', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6335625105449637
+"('grade', 'dti', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6234604352961026
+"('grade', 'dti', 'int_rate', 'total_acc')",0.5947992238906699
+"('grade', 'dti', 'int_rate', 'total_acc', 'loan_amnt')",0.6185043023451999
+"('grade', 'dti', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6280791294077949
+"('grade', 'dti', 'int_rate', 'total_acc', 'open_acc')",0.6113337270119791
+"('grade', 'dti', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6228066475451325
+"('grade', 'dti', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6328876328665429
+"('grade', 'dti', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6384764636409651
+"('grade', 'dti', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6303990214273663
+"('grade', 'dti', 'loan_amnt')",0.5816812890163657
+"('grade', 'dti', 'loan_amnt', 'open_acc')",0.5951577526573308
+"('grade', 'dti', 'open_acc')",0.5659482031381812
+"('grade', 'dti', 'revol_bal')",0.5909819470221023
+"('grade', 'dti', 'revol_bal', 'loan_amnt')",0.6124093133119622
+"('grade', 'dti', 'revol_bal', 'loan_amnt', 'open_acc')",0.6214358022608403
+"('grade', 'dti', 'revol_bal', 'open_acc')",0.6005567740846971
+"('grade', 'dti', 'revol_bal', 'tot_cur_bal')",0.6094356335414206
+"('grade', 'dti', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6256326978235195
+"('grade', 'dti', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6309473595410832
+"('grade', 'dti', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6215412518980935
+"('grade', 'dti', 'revol_bal', 'total_acc')",0.6036569934199426
+"('grade', 'dti', 'revol_bal', 'total_acc', 'loan_amnt')",0.6234182554412013
+"('grade', 'dti', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6301881221528598
+"('grade', 'dti', 'revol_bal', 'total_acc', 'open_acc')",0.6150033743883921
+"('grade', 'dti', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6216467015353467
+"('grade', 'dti', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6322760249704741
+"('grade', 'dti', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6368947190821663
+"('grade', 'dti', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6283743883921039
+"('grade', 'dti', 'revol_util')",0.5901805297789776
+"('grade', 'dti', 'revol_util', 'int_rate')",0.6065463134806817
+"('grade', 'dti', 'revol_util', 'int_rate', 'loan_amnt')",0.6239665935549181
+"('grade', 'dti', 'revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.630778640121478
+"('grade', 'dti', 'revol_util', 'int_rate', 'open_acc')",0.6157626117766155
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal')",0.6207609245824194
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6318331364940104
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.63408975873123
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.6279736797705416
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6342373882233845
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6408807153703391
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6426733592036443
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6350809853214104
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.627467521511726
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6382022945841066
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6403323772566223
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6330352623586974
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.636494010460604
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6434536865193183
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6445292728193015
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6409861650075924
+"('grade', 'dti', 'revol_util', 'int_rate', 'tot_cur_bal')",0.624219672684326
+"('grade', 'dti', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6354816939429728
+"('grade', 'dti', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6393200607389911
+"('grade', 'dti', 'revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.632529104099882
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc')",0.6182934030706935
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.6297874135312974
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6341741184410326
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc', 'open_acc')",0.6241774928294247
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6315378775097014
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6401425679095664
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6429264383330522
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6368103593723637
+"('grade', 'dti', 'revol_util', 'loan_amnt')",0.6101737810021933
+"('grade', 'dti', 'revol_util', 'loan_amnt', 'open_acc')",0.6169647376413026
+"('grade', 'dti', 'revol_util', 'open_acc')",0.6026446769023115
+"('grade', 'dti', 'revol_util', 'revol_bal')",0.6095199932512232
+"('grade', 'dti', 'revol_util', 'revol_bal', 'loan_amnt')",0.6222583094314156
+"('grade', 'dti', 'revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.6282689387548507
+"('grade', 'dti', 'revol_util', 'revol_bal', 'open_acc')",0.6164374894550363
+"('grade', 'dti', 'revol_util', 'revol_bal', 'tot_cur_bal')",0.6189471908216636
+"('grade', 'dti', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.629576514256791
+"('grade', 'dti', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6356715032900286
+"('grade', 'dti', 'revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6277627804960351
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc')",0.6186519318373545
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.629028176143074
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6338788594567235
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.6228699173274844
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6270879028176143
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6360511219841404
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6405010966762275
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6326767335920365
+"('grade', 'dti', 'revol_util', 'tot_cur_bal')",0.6095832630335751
+"('grade', 'dti', 'revol_util', 'tot_cur_bal', 'loan_amnt')",0.6251265395647039
+"('grade', 'dti', 'revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.631200438670491
+"('grade', 'dti', 'revol_util', 'tot_cur_bal', 'open_acc')",0.6202969461785052
+"('grade', 'dti', 'revol_util', 'total_acc')",0.60454277037287
+"('grade', 'dti', 'revol_util', 'total_acc', 'loan_amnt')",0.6227855576176818
+"('grade', 'dti', 'revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.6276995107136831
+"('grade', 'dti', 'revol_util', 'total_acc', 'open_acc')",0.6111439176649233
+"('grade', 'dti', 'revol_util', 'total_acc', 'tot_cur_bal')",0.6206765648726168
+"('grade', 'dti', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6330774422135987
+"('grade', 'dti', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6357980428547326
+"('grade', 'dti', 'revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6275097013666273
+"('grade', 'dti', 'tot_cur_bal')",0.5963387885945672
+"('grade', 'dti', 'tot_cur_bal', 'loan_amnt')",0.6095832630335751
+"('grade', 'dti', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6231862662392441
+"('grade', 'dti', 'tot_cur_bal', 'open_acc')",0.6072211911591024
+"('grade', 'dti', 'total_acc')",0.5668128901636579
+"('grade', 'dti', 'total_acc', 'loan_amnt')",0.604352961025814
+"('grade', 'dti', 'total_acc', 'loan_amnt', 'open_acc')",0.6137168888139025
+"('grade', 'dti', 'total_acc', 'open_acc')",0.5849080479163151
+"('grade', 'dti', 'total_acc', 'tot_cur_bal')",0.6069470221022439
+"('grade', 'dti', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6210140037118272
+"('grade', 'dti', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6286485574489624
+"('grade', 'dti', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6202336763961532
+"('grade', 'int_rate')",0.6437911253585288
+"('grade', 'int_rate', 'loan_amnt')",0.6173654462628648
+"('grade', 'int_rate', 'loan_amnt', 'open_acc')",0.5942719757044036
+"('grade', 'int_rate', 'open_acc')",0.6338577695292729
+"('grade', 'int_rate', 'revol_bal')",0.5669183398009111
+"('grade', 'int_rate', 'revol_bal', 'loan_amnt')",0.594250885776953
+"('grade', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6114180867217817
+"('grade', 'int_rate', 'revol_bal', 'open_acc')",0.5792348574320905
+"('grade', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6065674034081323
+"('grade', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6189050109667623
+"('grade', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6318120465665598
+"('grade', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6166483887295428
+"('grade', 'int_rate', 'revol_bal', 'total_acc')",0.5925215117259997
+"('grade', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6148979247511388
+"('grade', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6234182554412013
+"('grade', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6070313818120465
+"('grade', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6173654462628648
+"('grade', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6283954783195546
+"('grade', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6347224565547495
+"('grade', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6256326978235195
+"('grade', 'int_rate', 'tot_cur_bal')",0.574088915134132
+"('grade', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.5997342669141218
+"('grade', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6160789606883752
+"('grade', 'int_rate', 'tot_cur_bal', 'open_acc')",0.5904125189809347
+"('grade', 'int_rate', 'total_acc')",0.6244516618862831
+"('grade', 'int_rate', 'total_acc', 'loan_amnt')",0.5938079973004893
+"('grade', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6071157415218492
+"('grade', 'int_rate', 'total_acc', 'open_acc')",0.5917833642652269
+"('grade', 'int_rate', 'total_acc', 'tot_cur_bal')",0.5929433102750127
+"('grade', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6133583600472414
+"('grade', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6287118272313144
+"('grade', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6093090939767167
+"('grade', 'loan_amnt')",0.6299561329509027
+"('grade', 'loan_amnt', 'open_acc')",0.6087185760080985
+"('grade', 'open_acc')",0.6405010966762275
+"('grade', 'revol_bal')",0.5631221528597942
+"('grade', 'revol_bal', 'loan_amnt')",0.5689640627636241
+"('grade', 'revol_bal', 'loan_amnt', 'open_acc')",0.585646195377088
+"('grade', 'revol_bal', 'open_acc')",0.5527880884089759
+"('grade', 'revol_bal', 'tot_cur_bal')",0.5904968786907373
+"('grade', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6018010798042854
+"('grade', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6165218491648389
+"('grade', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5995655474945166
+"('grade', 'revol_bal', 'total_acc')",0.5586721781677071
+"('grade', 'revol_bal', 'total_acc', 'loan_amnt')",0.5935760080985322
+"('grade', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6074531803610596
+"('grade', 'revol_bal', 'total_acc', 'open_acc')",0.5763455373713514
+"('grade', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6057448962375569
+"('grade', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6167960182216973
+"('grade', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6265395647038974
+"('grade', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6117555255609921
+"('grade', 'revol_util')",0.6249578201450987
+"('grade', 'revol_util', 'int_rate')",0.5770625949046735
+"('grade', 'revol_util', 'int_rate', 'loan_amnt')",0.5984688712670828
+"('grade', 'revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.6146870254766323
+"('grade', 'revol_util', 'int_rate', 'open_acc')",0.5846127889320061
+"('grade', 'revol_util', 'int_rate', 'revol_bal')",0.6012738316180193
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6165640290197402
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6265184747764467
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.613864518306057
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6202969461785052
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6287118272313144
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6358824025645352
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6286696473764131
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.6180403239412856
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6268770035431078
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6299561329509027
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6234182554412013
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6292179854901299
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6363042011135481
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6407119959507339
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.63408975873123
+"('grade', 'revol_util', 'int_rate', 'tot_cur_bal')",0.6023283279905517
+"('grade', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6194322591530285
+"('grade', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6305255609920701
+"('grade', 'revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6193689893706765
+"('grade', 'revol_util', 'int_rate', 'total_acc')",0.587628648557449
+"('grade', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.615488442719757
+"('grade', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6238822338451155
+"('grade', 'revol_util', 'int_rate', 'total_acc', 'open_acc')",0.6084865868061414
+"('grade', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6198118778471402
+"('grade', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6290703559979753
+"('grade', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6359878522017884
+"('grade', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6266661042686014
+"('grade', 'revol_util', 'loan_amnt')",0.5822507170575333
+"('grade', 'revol_util', 'loan_amnt', 'open_acc')",0.5914037455711152
+"('grade', 'revol_util', 'open_acc')",0.5739623755694281
+"('grade', 'revol_util', 'revol_bal')",0.5852665766829762
+"('grade', 'revol_util', 'revol_bal', 'loan_amnt')",0.6013371014003712
+"('grade', 'revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.6157415218491649
+"('grade', 'revol_util', 'revol_bal', 'open_acc')",0.5970980259827906
+"('grade', 'revol_util', 'revol_bal', 'tot_cur_bal')",0.6057238063101062
+"('grade', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6153619031550531
+"('grade', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6261599460097858
+"('grade', 'revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6173865361903155
+"('grade', 'revol_util', 'revol_bal', 'total_acc')",0.6001560654631348
+"('grade', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.6167327484393453
+"('grade', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6229120971823857
+"('grade', 'revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.6116289859962881
+"('grade', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6164163995275856
+"('grade', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6268980934705585
+"('grade', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6309262696136325
+"('grade', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6244727518137337
+"('grade', 'revol_util', 'tot_cur_bal')",0.5867639615319723
+"('grade', 'revol_util', 'tot_cur_bal', 'loan_amnt')",0.606040155221866
+"('grade', 'revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6144550362746752
+"('grade', 'revol_util', 'tot_cur_bal', 'open_acc')",0.5978783532984646
+"('grade', 'revol_util', 'total_acc')",0.5660536527754344
+"('grade', 'revol_util', 'total_acc', 'loan_amnt')",0.5973511051121985
+"('grade', 'revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.608149147966931
+"('grade', 'revol_util', 'total_acc', 'open_acc')",0.5815969293065631
+"('grade', 'revol_util', 'total_acc', 'tot_cur_bal')",0.6003458748101906
+"('grade', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6174498059726674
+"('grade', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6255272481862663
+"('grade', 'revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6108064788257128
+"('grade', 'tot_cur_bal')",0.5640501096676227
+"('grade', 'tot_cur_bal', 'loan_amnt')",0.5728446094145436
+"('grade', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5946094145436139
+"('grade', 'tot_cur_bal', 'open_acc')",0.566264552049941
+"('grade', 'total_acc')",0.6375274169056858
+"('grade', 'total_acc', 'loan_amnt')",0.6013371014003712
+"('grade', 'total_acc', 'loan_amnt', 'open_acc')",0.5849080479163151
+"('grade', 'total_acc', 'open_acc')",0.6272144423823182
+"('grade', 'total_acc', 'tot_cur_bal')",0.5647460772734941
+"('grade', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5956639109161465
+"('grade', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6105744896237557
+"('grade', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5841066306731905
+"('int_rate',)",0.6410072549350431
+"('int_rate', 'loan_amnt')",0.6146237556942804
+"('int_rate', 'loan_amnt', 'open_acc')",0.592500421798549
+"('int_rate', 'open_acc')",0.6315800573646027
+"('int_rate', 'revol_bal')",0.5628268938754851
+"('int_rate', 'revol_bal', 'loan_amnt')",0.5933018390416737
+"('int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6075375400708621
+"('int_rate', 'revol_bal', 'open_acc')",0.5745739834654969
+"('int_rate', 'revol_bal', 'tot_cur_bal')",0.6044795005905179
+"('int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6160156909060233
+"('int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.627952589843091
+"('int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6172810865530622
+"('int_rate', 'revol_bal', 'total_acc')",0.5860890838535515
+"('int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6074531803610596
+"('int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.618736291547157
+"('int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6035515437826894
+"('int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.613505989539396
+"('int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6249367302176481
+"('int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6317065969293065
+"('int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6235237050784546
+"('int_rate', 'tot_cur_bal')",0.5721275518812216
+"('int_rate', 'tot_cur_bal', 'loan_amnt')",0.5976252741690569
+"('int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6117344356335415
+"('int_rate', 'tot_cur_bal', 'open_acc')",0.5839800911084866
+"('int_rate', 'total_acc')",0.6216467015353467
+"('int_rate', 'total_acc', 'loan_amnt')",0.5892103931162477
+"('int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.602307238063101
+"('int_rate', 'total_acc', 'open_acc')",0.5885776952927282
+"('int_rate', 'total_acc', 'tot_cur_bal')",0.5858360047241438
+"('int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6104268601316012
+"('int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6226590180529779
+"('int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6054496372532479
+"('loan_amnt',)",0.5525560992070188
+"('loan_amnt', 'open_acc')",0.5360637759406107
+"('open_acc',)",0.5211531972330015
+"('revol_bal',)",0.5026573308587818
+"('revol_bal', 'loan_amnt')",0.5163025139193521
+"('revol_bal', 'loan_amnt', 'open_acc')",0.5179686181879535
+"('revol_bal', 'open_acc')",0.5030158596254429
+"('revol_bal', 'tot_cur_bal')",0.5126750463978403
+"('revol_bal', 'tot_cur_bal', 'loan_amnt')",0.5409355491817108
+"('revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5462502108992745
+"('revol_bal', 'tot_cur_bal', 'open_acc')",0.5210477475957482
+"('revol_bal', 'total_acc')",0.5032478488274
+"('revol_bal', 'total_acc', 'loan_amnt')",0.5148894887801586
+"('revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.5289353804622912
+"('revol_bal', 'total_acc', 'open_acc')",0.5053990214273663
+"('revol_bal', 'total_acc', 'tot_cur_bal')",0.5167032225409145
+"('revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5450059051796862
+"('revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5550868905010967
+"('revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5266576682976211
+"('revol_util',)",0.5282183229289691
+"('revol_util', 'int_rate')",0.5756706596929306
+"('revol_util', 'int_rate', 'loan_amnt')",0.597857263371014
+"('revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.6096887126708284
+"('revol_util', 'int_rate', 'open_acc')",0.5810907710477476
+"('revol_util', 'int_rate', 'revol_bal')",0.6006833136494011
+"('revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6119242449805973
+"('revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6220052303020077
+"('revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.6102159608570946
+"('revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6167327484393453
+"('revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6275097013666273
+"('revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.634806816264552
+"('revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6262232157921377
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.6125569428041168
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6214147123333895
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6284587481019065
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6190948203138181
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6241985827568753
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6314956976548001
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6353340644508183
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6295554243293403
+"('revol_util', 'int_rate', 'tot_cur_bal')",0.6055972667454024
+"('revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6174919858275687
+"('revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6272777121646701
+"('revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.617470895900118
+"('revol_util', 'int_rate', 'total_acc')",0.5831786738653619
+"('revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.609056014847309
+"('revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6202758562510545
+"('revol_util', 'int_rate', 'total_acc', 'open_acc')",0.6027079466846634
+"('revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6148346549687869
+"('revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6253163489117597
+"('revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6326345537371352
+"('revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6252108992745065
+"('revol_util', 'loan_amnt')",0.5198878015859626
+"('revol_util', 'loan_amnt', 'open_acc')",0.520583769191834
+"('revol_util', 'open_acc')",0.5108191327821833
+"('revol_util', 'revol_bal')",0.512632866542939
+"('revol_util', 'revol_bal', 'loan_amnt')",0.5359583263033575
+"('revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.5512485237050785
+"('revol_util', 'revol_bal', 'open_acc')",0.5253500927956808
+"('revol_util', 'revol_bal', 'tot_cur_bal')",0.5332377256622237
+"('revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.5569006242618525
+"('revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5729922389066981
+"('revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5469250885776953
+"('revol_util', 'revol_bal', 'total_acc')",0.5199299814408639
+"('revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.5434241606208875
+"('revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.5626370845284292
+"('revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.5362746752151173
+"('revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.5390796355660536
+"('revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5647882571283955
+"('revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5795301164163995
+"('revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.551691412181542
+"('revol_util', 'tot_cur_bal')",0.5201408807153703
+"('revol_util', 'tot_cur_bal', 'loan_amnt')",0.5416104268601316
+"('revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5480428547325797
+"('revol_util', 'tot_cur_bal', 'open_acc')",0.5310021933524549
+"('revol_util', 'total_acc')",0.507824363084191
+"('revol_util', 'total_acc', 'loan_amnt')",0.5207946684663405
+"('revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.5334908047916315
+"('revol_util', 'total_acc', 'open_acc')",0.5109245824194365
+"('revol_util', 'total_acc', 'tot_cur_bal')",0.526425679095664
+"('revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5474101569090603
+"('revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.558376919183398
+"('revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5376666104268601
+"('tot_cur_bal',)",0.5140669816095833
+"('tot_cur_bal', 'loan_amnt')",0.5285979416230808
+"('tot_cur_bal', 'loan_amnt', 'open_acc')",0.5309811034250043
+"('tot_cur_bal', 'open_acc')",0.5193605533996963
+"('total_acc',)",0.5055044710646195
+"('total_acc', 'loan_amnt')",0.5322043192171418
+"('total_acc', 'loan_amnt', 'open_acc')",0.5240425172937405
+"('total_acc', 'open_acc')",0.5297789775603172
+"('total_acc', 'tot_cur_bal')",0.5095959169900456
+"('total_acc', 'tot_cur_bal', 'loan_amnt')",0.5305803948034419
+"('total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5412940779483718
+"('total_acc', 'tot_cur_bal', 'open_acc')",0.5134131938586132
+"('annual_inc',)",0.5283026826387717
+"('annual_inc', 'int_rate')",0.6039733423317024
+"('annual_inc', 'int_rate', 'loan_amnt')",0.5972456554749451
+"('annual_inc', 'int_rate', 'loan_amnt', 'open_acc')",0.606525223553231
+"('annual_inc', 'int_rate', 'open_acc')",0.5853509363927788
+"('annual_inc', 'int_rate', 'revol_bal')",0.5938501771553906
+"('annual_inc', 'int_rate', 'revol_bal', 'loan_amnt')",0.6134005399021427
+"('annual_inc', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6231229964568922
+"('annual_inc', 'int_rate', 'revol_bal', 'open_acc')",0.606525223553231
+"('annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6157415218491649
+"('annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6256537877509701
+"('annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6328876328665429
+"('annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6246414712333389
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc')",0.6099417918002362
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6213303526235869
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6256116078960688
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6187784714020583
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6244727518137337
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6316011472920533
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6361987514762949
+"('annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6303779314999156
+"('annual_inc', 'int_rate', 'tot_cur_bal')",0.5975198245318036
+"('annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6177872448118779
+"('annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6276151510038805
+"('annual_inc', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6122195039649063
+"('annual_inc', 'int_rate', 'total_acc')",0.5856040155221865
+"('annual_inc', 'int_rate', 'total_acc', 'loan_amnt')",0.6122195039649063
+"('annual_inc', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6183144929981441
+"('annual_inc', 'int_rate', 'total_acc', 'open_acc')",0.6015690906023283
+"('annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6119453349080479
+"('annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6255272481862663
+"('annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6302303020077611
+"('annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6190315505314662
+"('annual_inc', 'loan_amnt')",0.5514172431246837
+"('annual_inc', 'loan_amnt', 'open_acc')",0.5359161464484562
+"('annual_inc', 'open_acc')",0.5271849164838873
+"('annual_inc', 'revol_bal')",0.5069385861312637
+"('annual_inc', 'revol_bal', 'loan_amnt')",0.5377298802092121
+"('annual_inc', 'revol_bal', 'loan_amnt', 'open_acc')",0.5496878690737304
+"('annual_inc', 'revol_bal', 'open_acc')",0.5114729205331534
+"('annual_inc', 'revol_bal', 'tot_cur_bal')",0.5263834992407627
+"('annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.5580394803441876
+"('annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5676564872616838
+"('annual_inc', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5338282436308419
+"('annual_inc', 'revol_bal', 'total_acc')",0.5113042011135481
+"('annual_inc', 'revol_bal', 'total_acc', 'loan_amnt')",0.548443563354142
+"('annual_inc', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.5625949046735279
+"('annual_inc', 'revol_bal', 'total_acc', 'open_acc')",0.5219757044035769
+"('annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.5323519487092965
+"('annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5640711995950733
+"('annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5773156740340813
+"('annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5414838872954277
+"('annual_inc', 'revol_util')",0.514868398852708
+"('annual_inc', 'revol_util', 'int_rate')",0.5952842922220347
+"('annual_inc', 'revol_util', 'int_rate', 'loan_amnt')",0.6133583600472414
+"('annual_inc', 'revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.6218576008098532
+"('annual_inc', 'revol_util', 'int_rate', 'open_acc')",0.6062088746414712
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal')",0.6125358528766661
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6228066475451325
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6294077948371858
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.6185043023451999
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6253374388392104
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6331196220685
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.635587143580226
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6309684494685338
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.6191580900961701
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6283322085372026
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6322338451155728
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6257170575333221
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6291758056352286
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6360511219841404
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6400582081997638
+"('annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6342795680782858
+"('annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal')",0.6127467521511726
+"('annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6275940610764299
+"('annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6335414206175131
+"('annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6242618525392273
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc')",0.6090771047747596
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.6221317698667117
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6298085034587481
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc', 'open_acc')",0.6194955289353805
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6230386367470896
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6317909566391091
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6388560823350767
+"('annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6322549350430234
+"('annual_inc', 'revol_util', 'loan_amnt')",0.5433187109836343
+"('annual_inc', 'revol_util', 'loan_amnt', 'open_acc')",0.5546229120971824
+"('annual_inc', 'revol_util', 'open_acc')",0.5187278555761768
+"('annual_inc', 'revol_util', 'revol_bal')",0.5241690568584444
+"('annual_inc', 'revol_util', 'revol_bal', 'loan_amnt')",0.5579340307069344
+"('annual_inc', 'revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.577821832292897
+"('annual_inc', 'revol_util', 'revol_bal', 'open_acc')",0.5437405095326472
+"('annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal')",0.5430023620718745
+"('annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.5755441201282268
+"('annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5910873966593555
+"('annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5606968112029694
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc')",0.5279019740172094
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.5668550700185592
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.5862156234182554
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.5522819301501602
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.5489708115404083
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5818921882908723
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5962122490298634
+"('annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5644719082166357
+"('annual_inc', 'revol_util', 'tot_cur_bal')",0.5341445925426016
+"('annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt')",0.5601695630167032
+"('annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5770415049772228
+"('annual_inc', 'revol_util', 'tot_cur_bal', 'open_acc')",0.5462291209718239
+"('annual_inc', 'revol_util', 'total_acc')",0.5185169563016703
+"('annual_inc', 'revol_util', 'total_acc', 'loan_amnt')",0.5494558798717732
+"('annual_inc', 'revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.5676775771891345
+"('annual_inc', 'revol_util', 'total_acc', 'open_acc')",0.5340813227602497
+"('annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal')",0.5410620887464147
+"('annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5695967605871436
+"('annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5819976379281255
+"('annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5544120128226759
+"('annual_inc', 'tot_cur_bal')",0.5177998987683482
+"('annual_inc', 'tot_cur_bal', 'loan_amnt')",0.5436983296777459
+"('annual_inc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5507001855913616
+"('annual_inc', 'tot_cur_bal', 'open_acc')",0.5181373376075586
+"('annual_inc', 'total_acc')",0.5145942297958495
+"('annual_inc', 'total_acc', 'loan_amnt')",0.534482031381812
+"('annual_inc', 'total_acc', 'loan_amnt', 'open_acc')",0.5392061751307575
+"('annual_inc', 'total_acc', 'open_acc')",0.5122954277037287
+"('annual_inc', 'total_acc', 'tot_cur_bal')",0.5172937405095327
+"('annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5532942466677915
+"('annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5636704909735111
+"('annual_inc', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5305382149485406
+"('dti',)",0.5503416568247005
+"('dti', 'annual_inc')",0.5218913446937743
+"('dti', 'annual_inc', 'int_rate')",0.604352961025814
+"('dti', 'annual_inc', 'int_rate', 'loan_amnt')",0.6179770541589337
+"('dti', 'annual_inc', 'int_rate', 'loan_amnt', 'open_acc')",0.6264130251391935
+"('dti', 'annual_inc', 'int_rate', 'open_acc')",0.6110173781002194
+"('dti', 'annual_inc', 'int_rate', 'revol_bal')",0.6190737303863675
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'loan_amnt')",0.6293867049097351
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6326767335920365
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'open_acc')",0.6212881727686856
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6274886114391767
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6359245824194365
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.63896153197233
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6306942804116754
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc')",0.6239665935549181
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6322549350430234
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6360089421292391
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6274253416568247
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6327189134469378
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6397629492154547
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6413025139193521
+"('dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6321283954783196
+"('dti', 'annual_inc', 'int_rate', 'tot_cur_bal')",0.6208874641471234
+"('dti', 'annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6301881221528598
+"('dti', 'annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.634026488948878
+"('dti', 'annual_inc', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6254007086215624
+"('dti', 'annual_inc', 'int_rate', 'total_acc')",0.6132529104099882
+"('dti', 'annual_inc', 'int_rate', 'total_acc', 'loan_amnt')",0.6271511725999662
+"('dti', 'annual_inc', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6343639277880884
+"('dti', 'annual_inc', 'int_rate', 'total_acc', 'open_acc')",0.6212249029863337
+"('dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6259701366627298
+"('dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6375906866880378
+"('dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6359456723468871
+"('dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6305255609920701
+"('dti', 'annual_inc', 'loan_amnt')",0.5504260165345031
+"('dti', 'annual_inc', 'loan_amnt', 'open_acc')",0.5602117428716045
+"('dti', 'annual_inc', 'open_acc')",0.5261936898937067
+"('dti', 'annual_inc', 'revol_bal')",0.5365699341994263
+"('dti', 'annual_inc', 'revol_bal', 'loan_amnt')",0.5656951240087734
+"('dti', 'annual_inc', 'revol_bal', 'loan_amnt', 'open_acc')",0.573603846802767
+"('dti', 'annual_inc', 'revol_bal', 'open_acc')",0.5401763117934875
+"('dti', 'annual_inc', 'revol_bal', 'tot_cur_bal')",0.5498565884933356
+"('dti', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.579382486924245
+"('dti', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5864476126202126
+"('dti', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5585667285304539
+"('dti', 'annual_inc', 'revol_bal', 'total_acc')",0.5418213261346381
+"('dti', 'annual_inc', 'revol_bal', 'total_acc', 'loan_amnt')",0.5736671165851189
+"('dti', 'annual_inc', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.581364940104606
+"('dti', 'annual_inc', 'revol_bal', 'total_acc', 'open_acc')",0.5487810021933525
+"('dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.5558672178167707
+"('dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5857094651594399
+"('dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5910241268770036
+"('dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5627003543107811
+"('dti', 'annual_inc', 'revol_util')",0.5401341319385862
+"('dti', 'annual_inc', 'revol_util', 'int_rate')",0.6152142736628986
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'loan_amnt')",0.6295976041842416
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.6314746077273494
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'open_acc')",0.6237135144255104
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal')",0.6249156402901974
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6315378775097014
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6347224565547495
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.6294921545469884
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6323814746077273
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6406065463134807
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6404378268938755
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6327821832292897
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.6289016365783702
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6358613126370846
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6387295427703729
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6307575501940273
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6339632191665261
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6384131938586132
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6416821326134639
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6371899780664755
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal')",0.6276362409313312
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.63408975873123
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6354606040155222
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6301670322254092
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc')",0.6231862662392441
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.633309431415556
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6347857263371014
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'open_acc')",0.6268980934705585
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6311582588155896
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.639868398852708
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.639868398852708
+"('dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6354184241606209
+"('dti', 'annual_inc', 'revol_util', 'loan_amnt')",0.5641766492323267
+"('dti', 'annual_inc', 'revol_util', 'loan_amnt', 'open_acc')",0.5709886957988864
+"('dti', 'annual_inc', 'revol_util', 'open_acc')",0.5477897756031719
+"('dti', 'annual_inc', 'revol_util', 'revol_bal')",0.5524295596423149
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'loan_amnt')",0.5804369832967775
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.5890205837691919
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'open_acc')",0.5586510882402564
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal')",0.5653787750970136
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.59220516281424
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5989117597435465
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5742998144086384
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc')",0.5581449299814408
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.58636325291041
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.5951577526573308
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.5661380124852371
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.5691116922557786
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.59707693605534
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6035937236375907
+"('dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5772734941791801
+"('dti', 'annual_inc', 'revol_util', 'tot_cur_bal')",0.5586299983128058
+"('dti', 'annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt')",0.5811118609751983
+"('dti', 'annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5869748608064789
+"('dti', 'annual_inc', 'revol_util', 'tot_cur_bal', 'open_acc')",0.5631854226421461
+"('dti', 'annual_inc', 'revol_util', 'total_acc')",0.5484646532815927
+"('dti', 'annual_inc', 'revol_util', 'total_acc', 'loan_amnt')",0.5727180698498398
+"('dti', 'annual_inc', 'revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.5786865193183736
+"('dti', 'annual_inc', 'revol_util', 'total_acc', 'open_acc')",0.5540956639109161
+"('dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal')",0.5606335414206175
+"('dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5874810190652944
+"('dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5935127383161802
+"('dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5698920195714526
+"('dti', 'annual_inc', 'tot_cur_bal')",0.540682470052303
+"('dti', 'annual_inc', 'tot_cur_bal', 'loan_amnt')",0.5668339800911085
+"('dti', 'annual_inc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5742154546988358
+"('dti', 'annual_inc', 'tot_cur_bal', 'open_acc')",0.548928631685507
+"('dti', 'annual_inc', 'total_acc')",0.531234182554412
+"('dti', 'annual_inc', 'total_acc', 'loan_amnt')",0.5621309262696136
+"('dti', 'annual_inc', 'total_acc', 'loan_amnt', 'open_acc')",0.572760249704741
+"('dti', 'annual_inc', 'total_acc', 'open_acc')",0.5402817614307407
+"('dti', 'annual_inc', 'total_acc', 'tot_cur_bal')",0.5472414374894551
+"('dti', 'annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5760502783870424
+"('dti', 'annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5837270119790788
+"('dti', 'annual_inc', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5571537033912604
+"('dti', 'int_rate')",0.5749957820145098
+"('dti', 'int_rate', 'loan_amnt')",0.6028977560317192
+"('dti', 'int_rate', 'loan_amnt', 'open_acc')",0.6131052809178337
+"('dti', 'int_rate', 'open_acc')",0.5828201450987008
+"('dti', 'int_rate', 'revol_bal')",0.6096465328159271
+"('dti', 'int_rate', 'revol_bal', 'loan_amnt')",0.6206554749451662
+"('dti', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6253585287666611
+"('dti', 'int_rate', 'revol_bal', 'open_acc')",0.6131685507001856
+"('dti', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6233338957313986
+"('dti', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6334781508351611
+"('dti', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6378648557448963
+"('dti', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.627530791294078
+"('dti', 'int_rate', 'revol_bal', 'total_acc')",0.6173232664079635
+"('dti', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6267293740509533
+"('dti', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6325923738822339
+"('dti', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6221317698667117
+"('dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6281002193352455
+"('dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.635355154378269
+"('dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6394466003036949
+"('dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6325923738822339
+"('dti', 'int_rate', 'tot_cur_bal')",0.6091614644845622
+"('dti', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6218576008098532
+"('dti', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6293867049097351
+"('dti', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6176396153197233
+"('dti', 'int_rate', 'total_acc')",0.5903703391260334
+"('dti', 'int_rate', 'total_acc', 'loan_amnt')",0.6162687700354311
+"('dti', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6223848489961195
+"('dti', 'int_rate', 'total_acc', 'open_acc')",0.6074320904336089
+"('dti', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6179137843765817
+"('dti', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6267082841235027
+"('dti', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6329930825037962
+"('dti', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6249578201450987
+"('dti', 'loan_amnt')",0.5272270963387886
+"('dti', 'loan_amnt', 'open_acc')",0.5286612114054328
+"('dti', 'open_acc')",0.5193394634722457
+"('dti', 'revol_bal')",0.5246330352623587
+"('dti', 'revol_bal', 'loan_amnt')",0.5499409482031382
+"('dti', 'revol_bal', 'loan_amnt', 'open_acc')",0.5563522861481357
+"('dti', 'revol_bal', 'open_acc')",0.5271005567740847
+"('dti', 'revol_bal', 'tot_cur_bal')",0.5424751138856082
+"('dti', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.5685633541420617
+"('dti', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5775898430909397
+"('dti', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5494769697992239
+"('dti', 'revol_bal', 'total_acc')",0.532858106968112
+"('dti', 'revol_bal', 'total_acc', 'loan_amnt')",0.5590728867892695
+"('dti', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.5671292390754176
+"('dti', 'revol_bal', 'total_acc', 'open_acc')",0.5425805635228614
+"('dti', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.5498776784207863
+"('dti', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5785810696811203
+"('dti', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5852665766829762
+"('dti', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5553610595579551
+"('dti', 'revol_util')",0.5207524886114392
+"('dti', 'revol_util', 'int_rate')",0.60779061920027
+"('dti', 'revol_util', 'int_rate', 'loan_amnt')",0.6185675721275519
+"('dti', 'revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.6247469208705922
+"('dti', 'revol_util', 'int_rate', 'open_acc')",0.6118398852707947
+"('dti', 'revol_util', 'int_rate', 'revol_bal')",0.6162055002530791
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6277627804960351
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6292601653450313
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.6250843597098026
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6280158596254429
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6340475788763287
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.639868398852708
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6318542264214612
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.6252319892019571
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6312215285979417
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6344482874978911
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6273198920195715
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6314113379449975
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.638603003205669
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6379703053821495
+"('dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6345748270625949
+"('dti', 'revol_util', 'int_rate', 'tot_cur_bal')",0.6192424498059727
+"('dti', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6294921545469884
+"('dti', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6346591867723975
+"('dti', 'revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6253163489117597
+"('dti', 'revol_util', 'int_rate', 'total_acc')",0.6133583600472414
+"('dti', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.6228910072549351
+"('dti', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.629513244474439
+"('dti', 'revol_util', 'int_rate', 'total_acc', 'open_acc')",0.6201914965412519
+"('dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.626202125864687
+"('dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6324658343175299
+"('dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6371267082841235
+"('dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6332039817783027
+"('dti', 'revol_util', 'loan_amnt')",0.5418635059895394
+"('dti', 'revol_util', 'loan_amnt', 'open_acc')",0.5451535346718407
+"('dti', 'revol_util', 'open_acc')",0.5259827906192003
+"('dti', 'revol_util', 'revol_bal')",0.5441833980091109
+"('dti', 'revol_util', 'revol_bal', 'loan_amnt')",0.5663910916146448
+"('dti', 'revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.5756917496203813
+"('dti', 'revol_util', 'revol_bal', 'open_acc')",0.5510165345031213
+"('dti', 'revol_util', 'revol_bal', 'tot_cur_bal')",0.5546018221697318
+"('dti', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.5837902817614308
+"('dti', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5919731736122827
+"('dti', 'revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5686898937067657
+"('dti', 'revol_util', 'revol_bal', 'total_acc')",0.5499620381305889
+"('dti', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.5727391597772904
+"('dti', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.5850345874810191
+"('dti', 'revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.5578918508520331
+"('dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.5606124514931669
+"('dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.588767504639784
+"('dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.59870086046904
+"('dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5729500590517969
+"('dti', 'revol_util', 'tot_cur_bal')",0.5502783870423485
+"('dti', 'revol_util', 'tot_cur_bal', 'loan_amnt')",0.5660536527754344
+"('dti', 'revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.573603846802767
+"('dti', 'revol_util', 'tot_cur_bal', 'open_acc')",0.5532520668128902
+"('dti', 'revol_util', 'total_acc')",0.5332166357347731
+"('dti', 'revol_util', 'total_acc', 'loan_amnt')",0.5505103762443058
+"('dti', 'revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.5587776278049603
+"('dti', 'revol_util', 'total_acc', 'open_acc')",0.5376244305719589
+"('dti', 'revol_util', 'total_acc', 'tot_cur_bal')",0.5559304875991227
+"('dti', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5734351273831618
+"('dti', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5806900624261853
+"('dti', 'revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5644719082166357
+"('dti', 'tot_cur_bal')",0.53279483718576
+"('dti', 'tot_cur_bal', 'loan_amnt')",0.5594735954108317
+"('dti', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5652311456048591
+"('dti', 'tot_cur_bal', 'open_acc')",0.5408933693268095
+"('dti', 'total_acc')",0.5185380462291209
+"('dti', 'total_acc', 'loan_amnt')",0.5349038299308251
+"('dti', 'total_acc', 'loan_amnt', 'open_acc')",0.5472414374894551
+"('dti', 'total_acc', 'open_acc')",0.5157752657330859
+"('dti', 'total_acc', 'tot_cur_bal')",0.5377087902817614
+"('dti', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.564029019740172
+"('dti', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5707356166694787
+"('dti', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5495191496541252
+"('grade',)",0.6394255103762443
+"('grade', 'annual_inc')",0.624704741015691
+"('grade', 'annual_inc', 'int_rate')",0.6047747595748271
+"('grade', 'annual_inc', 'int_rate', 'loan_amnt')",0.598574320904336
+"('grade', 'annual_inc', 'int_rate', 'loan_amnt', 'open_acc')",0.6148979247511388
+"('grade', 'annual_inc', 'int_rate', 'open_acc')",0.5888729542770373
+"('grade', 'annual_inc', 'int_rate', 'revol_bal')",0.5947148641808672
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'loan_amnt')",0.6189682807491143
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6287118272313144
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'open_acc')",0.6134848996119453
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6218997806647545
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.631137168888139
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6370423485743208
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6290703559979753
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc')",0.6157415218491649
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6272355323097688
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6341952083684832
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6249156402901974
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6277206006411338
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6366205500253079
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6390669816095833
+"('grade', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6350809853214104
+"('grade', 'annual_inc', 'int_rate', 'tot_cur_bal')",0.5997764467690231
+"('grade', 'annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6244094820313818
+"('grade', 'annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.631200438670491
+"('grade', 'annual_inc', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6180614138687363
+"('grade', 'annual_inc', 'int_rate', 'total_acc')",0.5889994938417412
+"('grade', 'annual_inc', 'int_rate', 'total_acc', 'loan_amnt')",0.6161844103256284
+"('grade', 'annual_inc', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6230386367470896
+"('grade', 'annual_inc', 'int_rate', 'total_acc', 'open_acc')",0.6066728530453855
+"('grade', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal')",0.615973511051122
+"('grade', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6314956976548001
+"('grade', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6362409313311962
+"('grade', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6252741690568584
+"('grade', 'annual_inc', 'loan_amnt')",0.6019276193689894
+"('grade', 'annual_inc', 'loan_amnt', 'open_acc')",0.5927535009279568
+"('grade', 'annual_inc', 'open_acc')",0.6037413531297452
+"('grade', 'annual_inc', 'revol_bal')",0.5726969799223891
+"('grade', 'annual_inc', 'revol_bal', 'loan_amnt')",0.5997131769866711
+"('grade', 'annual_inc', 'revol_bal', 'loan_amnt', 'open_acc')",0.6131052809178337
+"('grade', 'annual_inc', 'revol_bal', 'open_acc')",0.5885566053652775
+"('grade', 'annual_inc', 'revol_bal', 'tot_cur_bal')",0.6034671840728868
+"('grade', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.617660705247174
+"('grade', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6263286654293909
+"('grade', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6154040830099544
+"('grade', 'annual_inc', 'revol_bal', 'total_acc')",0.5945039649063607
+"('grade', 'annual_inc', 'revol_bal', 'total_acc', 'loan_amnt')",0.6142652269276194
+"('grade', 'annual_inc', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6231862662392441
+"('grade', 'annual_inc', 'revol_bal', 'total_acc', 'open_acc')",0.6062721444238232
+"('grade', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6170069174962038
+"('grade', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.625295258984309
+"('grade', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6329087227939936
+"('grade', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6245992913784376
+"('grade', 'annual_inc', 'revol_util')",0.5753754007086216
+"('grade', 'annual_inc', 'revol_util', 'int_rate')",0.5952842922220347
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'loan_amnt')",0.6195587987177325
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.6271933524548675
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'open_acc')",0.610975198245318
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal')",0.6152142736628986
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6285009279568078
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6340686688037793
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.6239033237725662
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6277206006411338
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6362620212586468
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6412603340644508
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6344904673527924
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.6251476294921545
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.633309431415556
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6395520499409482
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6293867049097351
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.634026488948878
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.640163657837017
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6427155390585456
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6376961363252911
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal')",0.6164374894550363
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6304412012822675
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6377172262527417
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6271933524548675
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc')",0.6140332377256622
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.6276151510038805
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6334992407626118
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'open_acc')",0.624578201450987
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6273409819470221
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6364729205331534
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6405221866036781
+"('grade', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6345537371351443
+"('grade', 'annual_inc', 'revol_util', 'loan_amnt')",0.6005567740846971
+"('grade', 'annual_inc', 'revol_util', 'loan_amnt', 'open_acc')",0.6139066981609583
+"('grade', 'annual_inc', 'revol_util', 'open_acc')",0.5897798211574152
+"('grade', 'annual_inc', 'revol_util', 'revol_bal')",0.603214104943479
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'loan_amnt')",0.6167960182216973
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.6254639784039143
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'open_acc')",0.6150244643158428
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal')",0.617597435464822
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6291336257803273
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.635291884595917
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6262443057195883
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc')",0.61266239244137
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.6253163489117597
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6322127551881221
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.620423485743209
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6221528597941623
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6346591867723975
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6369368989370676
+"('grade', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6326978235194871
+"('grade', 'annual_inc', 'revol_util', 'tot_cur_bal')",0.6047325797199258
+"('grade', 'annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt')",0.620971823856926
+"('grade', 'annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.629576514256791
+"('grade', 'annual_inc', 'revol_util', 'tot_cur_bal', 'open_acc')",0.6173654462628648
+"('grade', 'annual_inc', 'revol_util', 'total_acc')",0.5956006411337945
+"('grade', 'annual_inc', 'revol_util', 'total_acc', 'loan_amnt')",0.6167116585118947
+"('grade', 'annual_inc', 'revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.6261177661548845
+"('grade', 'annual_inc', 'revol_util', 'total_acc', 'open_acc')",0.6084022270963388
+"('grade', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal')",0.6177661548844272
+"('grade', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6306099207018728
+"('grade', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.63408975873123
+"('grade', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.625780327315674
+"('grade', 'annual_inc', 'tot_cur_bal')",0.5752066812890164
+"('grade', 'annual_inc', 'tot_cur_bal', 'loan_amnt')",0.6003669647376413
+"('grade', 'annual_inc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6187152016197064
+"('grade', 'annual_inc', 'tot_cur_bal', 'open_acc')",0.5931120296946178
+"('grade', 'annual_inc', 'total_acc')",0.5930487599122659
+"('grade', 'annual_inc', 'total_acc', 'loan_amnt')",0.5959802598279061
+"('grade', 'annual_inc', 'total_acc', 'loan_amnt', 'open_acc')",0.6077062594904673
+"('grade', 'annual_inc', 'total_acc', 'open_acc')",0.5847182385692593
+"('grade', 'annual_inc', 'total_acc', 'tot_cur_bal')",0.5988695798886452
+"('grade', 'annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6171123671334571
+"('grade', 'annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6285641977391597
+"('grade', 'annual_inc', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6112071874472752
+"('grade', 'dti')",0.6011472920533153
+"('grade', 'dti', 'annual_inc')",0.5811118609751983
+"('grade', 'dti', 'annual_inc', 'int_rate')",0.6036148135650413
+"('grade', 'dti', 'annual_inc', 'int_rate', 'loan_amnt')",0.6242829424666779
+"('grade', 'dti', 'annual_inc', 'int_rate', 'loan_amnt', 'open_acc')",0.6313058883077443
+"('grade', 'dti', 'annual_inc', 'int_rate', 'open_acc')",0.6155728024295597
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal')",0.6260334064450819
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'loan_amnt')",0.6341741184410326
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6395731398683988
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'open_acc')",0.6263919352117429
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.631073899105787
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6406909060232833
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6448245318036105
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6371688881390248
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc')",0.6307997300489286
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6382022945841066
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6417454023958158
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6322760249704741
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6359456723468871
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6440863843428378
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6452252404251729
+"('grade', 'dti', 'annual_inc', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.639024801754682
+"('grade', 'dti', 'annual_inc', 'int_rate', 'tot_cur_bal')",0.624514931668635
+"('grade', 'dti', 'annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.635355154378269
+"('grade', 'dti', 'annual_inc', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6395309600134975
+"('grade', 'dti', 'annual_inc', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6317487767842078
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc')",0.6175763455373714
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc', 'loan_amnt')",0.6316011472920533
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.638603003205669
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc', 'open_acc')",0.6270035431078117
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6309473595410832
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6399527585625105
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6434325965918677
+"('grade', 'dti', 'annual_inc', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6357347730723806
+"('grade', 'dti', 'annual_inc', 'loan_amnt')",0.6074953602159608
+"('grade', 'dti', 'annual_inc', 'loan_amnt', 'open_acc')",0.6185675721275519
+"('grade', 'dti', 'annual_inc', 'open_acc')",0.59870086046904
+"('grade', 'dti', 'annual_inc', 'revol_bal')",0.6102792306394466
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'loan_amnt')",0.6250632697823519
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'loan_amnt', 'open_acc')",0.6298085034587481
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'open_acc')",0.618019234013835
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'tot_cur_bal')",0.6207609245824194
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6320651256959676
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6370845284292223
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6304201113548169
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc')",0.6194322591530285
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc', 'loan_amnt')",0.6328665429390923
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6368314492998144
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc', 'open_acc')",0.6268559136156572
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6271722625274169
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6371056183566729
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6418297621056184
+"('grade', 'dti', 'annual_inc', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6331618019234014
+"('grade', 'dti', 'annual_inc', 'revol_util')",0.6091403745571116
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate')",0.6215201619706429
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'loan_amnt')",0.6344904673527924
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.6354816939429728
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'open_acc')",0.6273409819470221
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal')",0.6313691580900962
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6371477982115742
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6410916146448457
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.6334148810528092
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6363885608233507
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6417454023958158
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6436434958663743
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6402480175468196
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.6341108486586806
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6407541758056352
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6417454023958158
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6355027838704235
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6388771722625274
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6418930318879703
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6470600641133795
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6375906866880378
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal')",0.6320229458410663
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6400582081997638
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6426522692761937
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6356293234351273
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc')",0.6303779314999156
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.6389826218997806
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6404589168213262
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'open_acc')",0.6321494854057702
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6375906866880378
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6433904167369664
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6446347224565547
+"('grade', 'dti', 'annual_inc', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6389404420448793
+"('grade', 'dti', 'annual_inc', 'revol_util', 'loan_amnt')",0.6240298633372702
+"('grade', 'dti', 'annual_inc', 'revol_util', 'loan_amnt', 'open_acc')",0.6286907373038637
+"('grade', 'dti', 'annual_inc', 'revol_util', 'open_acc')",0.6176185253922727
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal')",0.618862831111861
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'loan_amnt')",0.6313058883077443
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.634385017715539
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'open_acc')",0.624578201450987
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal')",0.6287540070862156
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6352286148135651
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6396364096507507
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6328454530116416
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc')",0.6260123165176312
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.6355238737978741
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6359456723468871
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.6301037624430572
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6320862156234183
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6407330858781846
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6403534671840729
+"('grade', 'dti', 'annual_inc', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.63733760755863
+"('grade', 'dti', 'annual_inc', 'revol_util', 'tot_cur_bal')",0.6202969461785052
+"('grade', 'dti', 'annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt')",0.6338155896743716
+"('grade', 'dti', 'annual_inc', 'revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6373165176311794
+"('grade', 'dti', 'annual_inc', 'revol_util', 'tot_cur_bal', 'open_acc')",0.6267926438333052
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc')",0.6198329677745908
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc', 'loan_amnt')",0.6305677408469715
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.6342795680782858
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc', 'open_acc')",0.6264341150666441
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal')",0.6278049603509364
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.638898262189978
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6408385355154378
+"('grade', 'dti', 'annual_inc', 'revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6332250717057534
+"('grade', 'dti', 'annual_inc', 'tot_cur_bal')",0.6085920364433947
+"('grade', 'dti', 'annual_inc', 'tot_cur_bal', 'loan_amnt')",0.6262864855744896
+"('grade', 'dti', 'annual_inc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.632402564535178
+"('grade', 'dti', 'annual_inc', 'tot_cur_bal', 'open_acc')",0.6177872448118779
+"('grade', 'dti', 'annual_inc', 'total_acc')",0.6049645689218829
+"('grade', 'dti', 'annual_inc', 'total_acc', 'loan_amnt')",0.6250210899274506
+"('grade', 'dti', 'annual_inc', 'total_acc', 'loan_amnt', 'open_acc')",0.630293571790113
+"('grade', 'dti', 'annual_inc', 'total_acc', 'open_acc')",0.6149822844609415
+"('grade', 'dti', 'annual_inc', 'total_acc', 'tot_cur_bal')",0.6213725324784882
+"('grade', 'dti', 'annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6301037624430572
+"('grade', 'dti', 'annual_inc', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6381390248017547
+"('grade', 'dti', 'annual_inc', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6276784207862325
+"('grade', 'dti', 'int_rate')",0.5738780158596254
+"('grade', 'dti', 'int_rate', 'loan_amnt')",0.6045005905179687
+"('grade', 'dti', 'int_rate', 'loan_amnt', 'open_acc')",0.6184832124177493
+"('grade', 'dti', 'int_rate', 'open_acc')",0.5879028176143074
+"('grade', 'dti', 'int_rate', 'revol_bal')",0.6099207018727856
+"('grade', 'dti', 'int_rate', 'revol_bal', 'loan_amnt')",0.6235658849333559
+"('grade', 'dti', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6309684494685338
+"('grade', 'dti', 'int_rate', 'revol_bal', 'open_acc')",0.6149190146785896
+"('grade', 'dti', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6258646870254766
+"('grade', 'dti', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6378437658174456
+"('grade', 'dti', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.639088071537034
+"('grade', 'dti', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6316855070018559
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc')",0.6199805972667454
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6321283954783196
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6369579888645183
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.626750463978404
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6315167875822507
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6400582081997638
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.643959844778134
+"('grade', 'dti', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.636072211911591
+"('grade', 'dti', 'int_rate', 'tot_cur_bal')",0.6103425004217985
+"('grade', 'dti', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6274464315842754
+"('grade', 'dti', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6335625105449637
+"('grade', 'dti', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6234604352961026
+"('grade', 'dti', 'int_rate', 'total_acc')",0.5947992238906699
+"('grade', 'dti', 'int_rate', 'total_acc', 'loan_amnt')",0.6185043023451999
+"('grade', 'dti', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6280791294077949
+"('grade', 'dti', 'int_rate', 'total_acc', 'open_acc')",0.6113337270119791
+"('grade', 'dti', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6228066475451325
+"('grade', 'dti', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6328876328665429
+"('grade', 'dti', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6384764636409651
+"('grade', 'dti', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6303990214273663
+"('grade', 'dti', 'loan_amnt')",0.5816812890163657
+"('grade', 'dti', 'loan_amnt', 'open_acc')",0.5951577526573308
+"('grade', 'dti', 'open_acc')",0.5659482031381812
+"('grade', 'dti', 'revol_bal')",0.5909819470221023
+"('grade', 'dti', 'revol_bal', 'loan_amnt')",0.6124093133119622
+"('grade', 'dti', 'revol_bal', 'loan_amnt', 'open_acc')",0.6214358022608403
+"('grade', 'dti', 'revol_bal', 'open_acc')",0.6005567740846971
+"('grade', 'dti', 'revol_bal', 'tot_cur_bal')",0.6094356335414206
+"('grade', 'dti', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6256326978235195
+"('grade', 'dti', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6309473595410832
+"('grade', 'dti', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6215412518980935
+"('grade', 'dti', 'revol_bal', 'total_acc')",0.6036569934199426
+"('grade', 'dti', 'revol_bal', 'total_acc', 'loan_amnt')",0.6234182554412013
+"('grade', 'dti', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6301881221528598
+"('grade', 'dti', 'revol_bal', 'total_acc', 'open_acc')",0.6150033743883921
+"('grade', 'dti', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6216467015353467
+"('grade', 'dti', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6322760249704741
+"('grade', 'dti', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6368947190821663
+"('grade', 'dti', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6283743883921039
+"('grade', 'dti', 'revol_util')",0.5901805297789776
+"('grade', 'dti', 'revol_util', 'int_rate')",0.6065463134806817
+"('grade', 'dti', 'revol_util', 'int_rate', 'loan_amnt')",0.6239665935549181
+"('grade', 'dti', 'revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.630778640121478
+"('grade', 'dti', 'revol_util', 'int_rate', 'open_acc')",0.6157626117766155
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal')",0.6207609245824194
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6318331364940104
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.63408975873123
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.6279736797705416
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6342373882233845
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6408807153703391
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6426733592036443
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6350809853214104
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.627467521511726
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6382022945841066
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6403323772566223
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6330352623586974
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.636494010460604
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6434536865193183
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6445292728193015
+"('grade', 'dti', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6409861650075924
+"('grade', 'dti', 'revol_util', 'int_rate', 'tot_cur_bal')",0.624219672684326
+"('grade', 'dti', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6354816939429728
+"('grade', 'dti', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6393200607389911
+"('grade', 'dti', 'revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.632529104099882
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc')",0.6182934030706935
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.6297874135312974
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6341741184410326
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc', 'open_acc')",0.6241774928294247
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6315378775097014
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6401425679095664
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6429264383330522
+"('grade', 'dti', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6368103593723637
+"('grade', 'dti', 'revol_util', 'loan_amnt')",0.6101737810021933
+"('grade', 'dti', 'revol_util', 'loan_amnt', 'open_acc')",0.6169647376413026
+"('grade', 'dti', 'revol_util', 'open_acc')",0.6026446769023115
+"('grade', 'dti', 'revol_util', 'revol_bal')",0.6095199932512232
+"('grade', 'dti', 'revol_util', 'revol_bal', 'loan_amnt')",0.6222583094314156
+"('grade', 'dti', 'revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.6282689387548507
+"('grade', 'dti', 'revol_util', 'revol_bal', 'open_acc')",0.6164374894550363
+"('grade', 'dti', 'revol_util', 'revol_bal', 'tot_cur_bal')",0.6189471908216636
+"('grade', 'dti', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.629576514256791
+"('grade', 'dti', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6356715032900286
+"('grade', 'dti', 'revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6277627804960351
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc')",0.6186519318373545
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.629028176143074
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6338788594567235
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.6228699173274844
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6270879028176143
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6360511219841404
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6405010966762275
+"('grade', 'dti', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6326767335920365
+"('grade', 'dti', 'revol_util', 'tot_cur_bal')",0.6095832630335751
+"('grade', 'dti', 'revol_util', 'tot_cur_bal', 'loan_amnt')",0.6251265395647039
+"('grade', 'dti', 'revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.631200438670491
+"('grade', 'dti', 'revol_util', 'tot_cur_bal', 'open_acc')",0.6202969461785052
+"('grade', 'dti', 'revol_util', 'total_acc')",0.60454277037287
+"('grade', 'dti', 'revol_util', 'total_acc', 'loan_amnt')",0.6227855576176818
+"('grade', 'dti', 'revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.6276995107136831
+"('grade', 'dti', 'revol_util', 'total_acc', 'open_acc')",0.6111439176649233
+"('grade', 'dti', 'revol_util', 'total_acc', 'tot_cur_bal')",0.6206765648726168
+"('grade', 'dti', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6330774422135987
+"('grade', 'dti', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6357980428547326
+"('grade', 'dti', 'revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6275097013666273
+"('grade', 'dti', 'tot_cur_bal')",0.5963387885945672
+"('grade', 'dti', 'tot_cur_bal', 'loan_amnt')",0.6095832630335751
+"('grade', 'dti', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6231862662392441
+"('grade', 'dti', 'tot_cur_bal', 'open_acc')",0.6072211911591024
+"('grade', 'dti', 'total_acc')",0.5668128901636579
+"('grade', 'dti', 'total_acc', 'loan_amnt')",0.604352961025814
+"('grade', 'dti', 'total_acc', 'loan_amnt', 'open_acc')",0.6137168888139025
+"('grade', 'dti', 'total_acc', 'open_acc')",0.5849080479163151
+"('grade', 'dti', 'total_acc', 'tot_cur_bal')",0.6069470221022439
+"('grade', 'dti', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6210140037118272
+"('grade', 'dti', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6286485574489624
+"('grade', 'dti', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6202336763961532
+"('grade', 'int_rate')",0.6437911253585288
+"('grade', 'int_rate', 'loan_amnt')",0.6173654462628648
+"('grade', 'int_rate', 'loan_amnt', 'open_acc')",0.5942719757044036
+"('grade', 'int_rate', 'open_acc')",0.6338577695292729
+"('grade', 'int_rate', 'revol_bal')",0.5669183398009111
+"('grade', 'int_rate', 'revol_bal', 'loan_amnt')",0.594250885776953
+"('grade', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6114180867217817
+"('grade', 'int_rate', 'revol_bal', 'open_acc')",0.5792348574320905
+"('grade', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6065674034081323
+"('grade', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6189050109667623
+"('grade', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6318120465665598
+"('grade', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6166483887295428
+"('grade', 'int_rate', 'revol_bal', 'total_acc')",0.5925215117259997
+"('grade', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6148979247511388
+"('grade', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6234182554412013
+"('grade', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6070313818120465
+"('grade', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6173654462628648
+"('grade', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6283954783195546
+"('grade', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6347224565547495
+"('grade', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6256326978235195
+"('grade', 'int_rate', 'tot_cur_bal')",0.574088915134132
+"('grade', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.5997342669141218
+"('grade', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6160789606883752
+"('grade', 'int_rate', 'tot_cur_bal', 'open_acc')",0.5904125189809347
+"('grade', 'int_rate', 'total_acc')",0.6244516618862831
+"('grade', 'int_rate', 'total_acc', 'loan_amnt')",0.5938079973004893
+"('grade', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6071157415218492
+"('grade', 'int_rate', 'total_acc', 'open_acc')",0.5917833642652269
+"('grade', 'int_rate', 'total_acc', 'tot_cur_bal')",0.5929433102750127
+"('grade', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6133583600472414
+"('grade', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6287118272313144
+"('grade', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6093090939767167
+"('grade', 'loan_amnt')",0.6299561329509027
+"('grade', 'loan_amnt', 'open_acc')",0.6087185760080985
+"('grade', 'open_acc')",0.6405010966762275
+"('grade', 'revol_bal')",0.5631221528597942
+"('grade', 'revol_bal', 'loan_amnt')",0.5689640627636241
+"('grade', 'revol_bal', 'loan_amnt', 'open_acc')",0.585646195377088
+"('grade', 'revol_bal', 'open_acc')",0.5527880884089759
+"('grade', 'revol_bal', 'tot_cur_bal')",0.5904968786907373
+"('grade', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6018010798042854
+"('grade', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6165218491648389
+"('grade', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5995655474945166
+"('grade', 'revol_bal', 'total_acc')",0.5586721781677071
+"('grade', 'revol_bal', 'total_acc', 'loan_amnt')",0.5935760080985322
+"('grade', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6074531803610596
+"('grade', 'revol_bal', 'total_acc', 'open_acc')",0.5763455373713514
+"('grade', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6057448962375569
+"('grade', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6167960182216973
+"('grade', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6265395647038974
+"('grade', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6117555255609921
+"('grade', 'revol_util')",0.6249578201450987
+"('grade', 'revol_util', 'int_rate')",0.5770625949046735
+"('grade', 'revol_util', 'int_rate', 'loan_amnt')",0.5984688712670828
+"('grade', 'revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.6146870254766323
+"('grade', 'revol_util', 'int_rate', 'open_acc')",0.5846127889320061
+"('grade', 'revol_util', 'int_rate', 'revol_bal')",0.6012738316180193
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6165640290197402
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6265184747764467
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.613864518306057
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6202969461785052
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6287118272313144
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6358824025645352
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6286696473764131
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.6180403239412856
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6268770035431078
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6299561329509027
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6234182554412013
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6292179854901299
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6363042011135481
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6407119959507339
+"('grade', 'revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.63408975873123
+"('grade', 'revol_util', 'int_rate', 'tot_cur_bal')",0.6023283279905517
+"('grade', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6194322591530285
+"('grade', 'revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6305255609920701
+"('grade', 'revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.6193689893706765
+"('grade', 'revol_util', 'int_rate', 'total_acc')",0.587628648557449
+"('grade', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.615488442719757
+"('grade', 'revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6238822338451155
+"('grade', 'revol_util', 'int_rate', 'total_acc', 'open_acc')",0.6084865868061414
+"('grade', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6198118778471402
+"('grade', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6290703559979753
+"('grade', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6359878522017884
+"('grade', 'revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6266661042686014
+"('grade', 'revol_util', 'loan_amnt')",0.5822507170575333
+"('grade', 'revol_util', 'loan_amnt', 'open_acc')",0.5914037455711152
+"('grade', 'revol_util', 'open_acc')",0.5739623755694281
+"('grade', 'revol_util', 'revol_bal')",0.5852665766829762
+"('grade', 'revol_util', 'revol_bal', 'loan_amnt')",0.6013371014003712
+"('grade', 'revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.6157415218491649
+"('grade', 'revol_util', 'revol_bal', 'open_acc')",0.5970980259827906
+"('grade', 'revol_util', 'revol_bal', 'tot_cur_bal')",0.6057238063101062
+"('grade', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6153619031550531
+"('grade', 'revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6261599460097858
+"('grade', 'revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6173865361903155
+"('grade', 'revol_util', 'revol_bal', 'total_acc')",0.6001560654631348
+"('grade', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.6167327484393453
+"('grade', 'revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6229120971823857
+"('grade', 'revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.6116289859962881
+"('grade', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6164163995275856
+"('grade', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6268980934705585
+"('grade', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6309262696136325
+"('grade', 'revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6244727518137337
+"('grade', 'revol_util', 'tot_cur_bal')",0.5867639615319723
+"('grade', 'revol_util', 'tot_cur_bal', 'loan_amnt')",0.606040155221866
+"('grade', 'revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6144550362746752
+"('grade', 'revol_util', 'tot_cur_bal', 'open_acc')",0.5978783532984646
+"('grade', 'revol_util', 'total_acc')",0.5660536527754344
+"('grade', 'revol_util', 'total_acc', 'loan_amnt')",0.5973511051121985
+"('grade', 'revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.608149147966931
+"('grade', 'revol_util', 'total_acc', 'open_acc')",0.5815969293065631
+"('grade', 'revol_util', 'total_acc', 'tot_cur_bal')",0.6003458748101906
+"('grade', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6174498059726674
+"('grade', 'revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6255272481862663
+"('grade', 'revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6108064788257128
+"('grade', 'tot_cur_bal')",0.5640501096676227
+"('grade', 'tot_cur_bal', 'loan_amnt')",0.5728446094145436
+"('grade', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5946094145436139
+"('grade', 'tot_cur_bal', 'open_acc')",0.566264552049941
+"('grade', 'total_acc')",0.6375274169056858
+"('grade', 'total_acc', 'loan_amnt')",0.6013371014003712
+"('grade', 'total_acc', 'loan_amnt', 'open_acc')",0.5849080479163151
+"('grade', 'total_acc', 'open_acc')",0.6272144423823182
+"('grade', 'total_acc', 'tot_cur_bal')",0.5647460772734941
+"('grade', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5956639109161465
+"('grade', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6105744896237557
+"('grade', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5841066306731905
+"('int_rate',)",0.6410072549350431
+"('int_rate', 'loan_amnt')",0.6146237556942804
+"('int_rate', 'loan_amnt', 'open_acc')",0.592500421798549
+"('int_rate', 'open_acc')",0.6315800573646027
+"('int_rate', 'revol_bal')",0.5628268938754851
+"('int_rate', 'revol_bal', 'loan_amnt')",0.5933018390416737
+"('int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6075375400708621
+"('int_rate', 'revol_bal', 'open_acc')",0.5745739834654969
+"('int_rate', 'revol_bal', 'tot_cur_bal')",0.6044795005905179
+"('int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6160156909060233
+"('int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.627952589843091
+"('int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6172810865530622
+"('int_rate', 'revol_bal', 'total_acc')",0.5860890838535515
+"('int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6074531803610596
+"('int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.618736291547157
+"('int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6035515437826894
+"('int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.613505989539396
+"('int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6249367302176481
+"('int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6317065969293065
+"('int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6235237050784546
+"('int_rate', 'tot_cur_bal')",0.5721275518812216
+"('int_rate', 'tot_cur_bal', 'loan_amnt')",0.5976252741690569
+"('int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6117344356335415
+"('int_rate', 'tot_cur_bal', 'open_acc')",0.5839800911084866
+"('int_rate', 'total_acc')",0.6216467015353467
+"('int_rate', 'total_acc', 'loan_amnt')",0.5892103931162477
+"('int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.602307238063101
+"('int_rate', 'total_acc', 'open_acc')",0.5885776952927282
+"('int_rate', 'total_acc', 'tot_cur_bal')",0.5858360047241438
+"('int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6104268601316012
+"('int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6226590180529779
+"('int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6054496372532479
+"('loan_amnt',)",0.5525560992070188
+"('loan_amnt', 'open_acc')",0.5360637759406107
+"('open_acc',)",0.5211531972330015
+"('revol_bal',)",0.5026573308587818
+"('revol_bal', 'loan_amnt')",0.5163025139193521
+"('revol_bal', 'loan_amnt', 'open_acc')",0.5179686181879535
+"('revol_bal', 'open_acc')",0.5030158596254429
+"('revol_bal', 'tot_cur_bal')",0.5126750463978403
+"('revol_bal', 'tot_cur_bal', 'loan_amnt')",0.5409355491817108
+"('revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5462502108992745
+"('revol_bal', 'tot_cur_bal', 'open_acc')",0.5210477475957482
+"('revol_bal', 'total_acc')",0.5032478488274
+"('revol_bal', 'total_acc', 'loan_amnt')",0.5148894887801586
+"('revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.5289353804622912
+"('revol_bal', 'total_acc', 'open_acc')",0.5053990214273663
+"('revol_bal', 'total_acc', 'tot_cur_bal')",0.5167032225409145
+"('revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5450059051796862
+"('revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5550868905010967
+"('revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5266576682976211
+"('revol_util',)",0.5282183229289691
+"('revol_util', 'int_rate')",0.5756706596929306
+"('revol_util', 'int_rate', 'loan_amnt')",0.597857263371014
+"('revol_util', 'int_rate', 'loan_amnt', 'open_acc')",0.6096887126708284
+"('revol_util', 'int_rate', 'open_acc')",0.5810907710477476
+"('revol_util', 'int_rate', 'revol_bal')",0.6006833136494011
+"('revol_util', 'int_rate', 'revol_bal', 'loan_amnt')",0.6119242449805973
+"('revol_util', 'int_rate', 'revol_bal', 'loan_amnt', 'open_acc')",0.6220052303020077
+"('revol_util', 'int_rate', 'revol_bal', 'open_acc')",0.6102159608570946
+"('revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal')",0.6167327484393453
+"('revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.6275097013666273
+"('revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.634806816264552
+"('revol_util', 'int_rate', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.6262232157921377
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc')",0.6125569428041168
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt')",0.6214147123333895
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.6284587481019065
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc', 'open_acc')",0.6190948203138181
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.6241985827568753
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6314956976548001
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6353340644508183
+"('revol_util', 'int_rate', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6295554243293403
+"('revol_util', 'int_rate', 'tot_cur_bal')",0.6055972667454024
+"('revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt')",0.6174919858275687
+"('revol_util', 'int_rate', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6272777121646701
+"('revol_util', 'int_rate', 'tot_cur_bal', 'open_acc')",0.617470895900118
+"('revol_util', 'int_rate', 'total_acc')",0.5831786738653619
+"('revol_util', 'int_rate', 'total_acc', 'loan_amnt')",0.609056014847309
+"('revol_util', 'int_rate', 'total_acc', 'loan_amnt', 'open_acc')",0.6202758562510545
+"('revol_util', 'int_rate', 'total_acc', 'open_acc')",0.6027079466846634
+"('revol_util', 'int_rate', 'total_acc', 'tot_cur_bal')",0.6148346549687869
+"('revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.6253163489117597
+"('revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.6326345537371352
+"('revol_util', 'int_rate', 'total_acc', 'tot_cur_bal', 'open_acc')",0.6252108992745065
+"('revol_util', 'loan_amnt')",0.5198878015859626
+"('revol_util', 'loan_amnt', 'open_acc')",0.520583769191834
+"('revol_util', 'open_acc')",0.5108191327821833
+"('revol_util', 'revol_bal')",0.512632866542939
+"('revol_util', 'revol_bal', 'loan_amnt')",0.5359583263033575
+"('revol_util', 'revol_bal', 'loan_amnt', 'open_acc')",0.5512485237050785
+"('revol_util', 'revol_bal', 'open_acc')",0.5253500927956808
+"('revol_util', 'revol_bal', 'tot_cur_bal')",0.5332377256622237
+"('revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt')",0.5569006242618525
+"('revol_util', 'revol_bal', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5729922389066981
+"('revol_util', 'revol_bal', 'tot_cur_bal', 'open_acc')",0.5469250885776953
+"('revol_util', 'revol_bal', 'total_acc')",0.5199299814408639
+"('revol_util', 'revol_bal', 'total_acc', 'loan_amnt')",0.5434241606208875
+"('revol_util', 'revol_bal', 'total_acc', 'loan_amnt', 'open_acc')",0.5626370845284292
+"('revol_util', 'revol_bal', 'total_acc', 'open_acc')",0.5362746752151173
+"('revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal')",0.5390796355660536
+"('revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5647882571283955
+"('revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5795301164163995
+"('revol_util', 'revol_bal', 'total_acc', 'tot_cur_bal', 'open_acc')",0.551691412181542
+"('revol_util', 'tot_cur_bal')",0.5201408807153703
+"('revol_util', 'tot_cur_bal', 'loan_amnt')",0.5416104268601316
+"('revol_util', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5480428547325797
+"('revol_util', 'tot_cur_bal', 'open_acc')",0.5310021933524549
+"('revol_util', 'total_acc')",0.507824363084191
+"('revol_util', 'total_acc', 'loan_amnt')",0.5207946684663405
+"('revol_util', 'total_acc', 'loan_amnt', 'open_acc')",0.5334908047916315
+"('revol_util', 'total_acc', 'open_acc')",0.5109245824194365
+"('revol_util', 'total_acc', 'tot_cur_bal')",0.526425679095664
+"('revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt')",0.5474101569090603
+"('revol_util', 'total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.558376919183398
+"('revol_util', 'total_acc', 'tot_cur_bal', 'open_acc')",0.5376666104268601
+"('tot_cur_bal',)",0.5140669816095833
+"('tot_cur_bal', 'loan_amnt')",0.5285979416230808
+"('tot_cur_bal', 'loan_amnt', 'open_acc')",0.5309811034250043
+"('tot_cur_bal', 'open_acc')",0.5193605533996963
+"('total_acc',)",0.5055044710646195
+"('total_acc', 'loan_amnt')",0.5322043192171418
+"('total_acc', 'loan_amnt', 'open_acc')",0.5240425172937405
+"('total_acc', 'open_acc')",0.5297789775603172
+"('total_acc', 'tot_cur_bal')",0.5095959169900456
+"('total_acc', 'tot_cur_bal', 'loan_amnt')",0.5305803948034419
+"('total_acc', 'tot_cur_bal', 'loan_amnt', 'open_acc')",0.5412940779483718
+"('total_acc', 'tot_cur_bal', 'open_acc')",0.5134131938586132
